@@ -1,0 +1,3170 @@
+[
+  {
+    "pais": "México",
+    "tecnico": "Javier Aguirre",
+    "jogadores": [
+      {
+        "nome": "Guillermo Ochoa",
+        "time": "AVS",
+        "idade": 40,
+        "cidade_nascimento": "Guadalajara"
+      },
+      {
+        "nome": "Luis Malagón",
+        "time": "América",
+        "idade": 29,
+        "cidade_nascimento": "Zamora"
+      },
+      {
+        "nome": "Johan Vásquez",
+        "time": "Genoa",
+        "idade": 27,
+        "cidade_nascimento": "Navojoa"
+      },
+      {
+        "nome": "César Montes",
+        "time": "Lokomotiv Moscow",
+        "idade": 29,
+        "cidade_nascimento": "Hermosillo"
+      },
+      {
+        "nome": "Edson Álvarez",
+        "time": "West Ham United",
+        "idade": 28,
+        "cidade_nascimento": "Tlalnepantla"
+      },
+      {
+        "nome": "Luis Chávez",
+        "time": "Dynamo Moscow",
+        "idade": 30,
+        "cidade_nascimento": "Cihuatlán"
+      },
+      {
+        "nome": "Orbelín Pineda",
+        "time": "AEK Athens",
+        "idade": 30,
+        "cidade_nascimento": "Coyuca de Catalán"
+      },
+      {
+        "nome": "Hirving Lozano",
+        "time": "San Diego FC",
+        "idade": 30,
+        "cidade_nascimento": "Cidade do México"
+      },
+      {
+        "nome": "Santiago Giménez",
+        "time": "AC Milan",
+        "idade": 25,
+        "cidade_nascimento": "Buenos Aires"
+      },
+      {
+        "nome": "Raúl Jiménez",
+        "time": "Fulham",
+        "idade": 35,
+        "cidade_nascimento": "Tepeji del Río"
+      }
+    ]
+  },
+  {
+    "pais": "África do Sul",
+    "tecnico": "Hugo Broos",
+    "jogadores": [
+      {
+        "nome": "Ronwen Williams",
+        "time": "Mamelodi Sundowns",
+        "idade": 34,
+        "cidade_nascimento": "Port Elizabeth"
+      },
+      {
+        "nome": "Aubrey Modiba",
+        "time": "Mamelodi Sundowns",
+        "idade": 30,
+        "cidade_nascimento": "Polokwane"
+      },
+      {
+        "nome": "Mothobi Mvala",
+        "time": "Mamelodi Sundowns",
+        "idade": 32,
+        "cidade_nascimento": "Theunissen"
+      },
+      {
+        "nome": "Teboho Mokoena",
+        "time": "Mamelodi Sundowns",
+        "idade": 29,
+        "cidade_nascimento": "Bethlehem"
+      },
+      {
+        "nome": "Percy Tau",
+        "time": "Qatar SC",
+        "idade": 32,
+        "cidade_nascimento": "Witbank"
+      },
+      {
+        "nome": "Lyle Foster",
+        "time": "Burnley",
+        "idade": 25,
+        "cidade_nascimento": "Soweto"
+      },
+      {
+        "nome": "Evidence Makgopa",
+        "time": "Orlando Pirates",
+        "idade": 26,
+        "cidade_nascimento": "Ga-Mampa"
+      },
+      {
+        "nome": "Thapelo Morena",
+        "time": "Mamelodi Sundowns",
+        "idade": 32,
+        "cidade_nascimento": "Randfontein"
+      },
+      {
+        "nome": "Sibongiseni Mthethwa",
+        "time": "Kaizer Chiefs",
+        "idade": 31,
+        "cidade_nascimento": "KwaZulu-Natal"
+      },
+      {
+        "nome": "Zakhele Lepasa",
+        "time": "Orlando Pirates",
+        "idade": 29,
+        "cidade_nascimento": "Soweto"
+      }
+    ]
+  },
+  {
+    "pais": "Coreia do Sul",
+    "tecnico": "Hong Myung-bo",
+    "jogadores": [
+      {
+        "nome": "Son Heung-min",
+        "time": "Tottenham Hotspur",
+        "idade": 33,
+        "cidade_nascimento": "Chuncheon"
+      },
+      {
+        "nome": "Kim Min-jae",
+        "time": "Bayern Munich",
+        "idade": 29,
+        "cidade_nascimento": "Tongyeong"
+      },
+      {
+        "nome": "Lee Kang-in",
+        "time": "Paris Saint-Germain",
+        "idade": 25,
+        "cidade_nascimento": "Incheon"
+      },
+      {
+        "nome": "Hwang Hee-chan",
+        "time": "Wolverhampton",
+        "idade": 30,
+        "cidade_nascimento": "Chuncheon"
+      },
+      {
+        "nome": "Cho Gue-sung",
+        "time": "Midtjylland",
+        "idade": 28,
+        "cidade_nascimento": "Ansan"
+      },
+      {
+        "nome": "Hwang In-beom",
+        "time": "Feyenoord",
+        "idade": 29,
+        "cidade_nascimento": "Daejeon"
+      },
+      {
+        "nome": "Lee Jae-sung",
+        "time": "Mainz 05",
+        "idade": 33,
+        "cidade_nascimento": "Ulsan"
+      },
+      {
+        "nome": "Seol Young-woo",
+        "time": "Crvena Zvezda",
+        "idade": 27,
+        "cidade_nascimento": "Ulsan"
+      },
+      {
+        "nome": "Kim Seung-gyu",
+        "time": "Al-Shabab",
+        "idade": 35,
+        "cidade_nascimento": "Ulsan"
+      },
+      {
+        "nome": "Oh Hyeon-gyu",
+        "time": "Genk",
+        "idade": 25,
+        "cidade_nascimento": "Namyangju"
+      }
+    ]
+  },
+  {
+    "pais": "República Tcheca",
+    "tecnico": "Ivan Hašek",
+    "jogadores": [
+      {
+        "nome": "Patrik Schick",
+        "time": "Bayer Leverkusen",
+        "idade": 30,
+        "cidade_nascimento": "Praga"
+      },
+      {
+        "nome": "Tomáš Souček",
+        "time": "West Ham United",
+        "idade": 31,
+        "cidade_nascimento": "Havlíčkův Brod"
+      },
+      {
+        "nome": "Vladimír Coufal",
+        "time": "West Ham United",
+        "idade": 33,
+        "cidade_nascimento": "Ostrava"
+      },
+      {
+        "nome": "Adam Hložek",
+        "time": "Hoffenheim",
+        "idade": 23,
+        "cidade_nascimento": "Ivančice"
+      },
+      {
+        "nome": "Antonín Barák",
+        "time": "Fiorentina",
+        "idade": 31,
+        "cidade_nascimento": "Příbram"
+      },
+      {
+        "nome": "Ladislav Krejčí",
+        "time": "Girona",
+        "idade": 27,
+        "cidade_nascimento": "Rosice"
+      },
+      {
+        "nome": "Tomáš Chorý",
+        "time": "Slavia Prague",
+        "idade": 31,
+        "cidade_nascimento": "Olomouc"
+      },
+      {
+        "nome": "Lukáš Provod",
+        "time": "Slavia Prague",
+        "idade": 29,
+        "cidade_nascimento": "Plzeň"
+      },
+      {
+        "nome": "Vítězslav Jaroš",
+        "time": "Liverpool",
+        "idade": 24,
+        "cidade_nascimento": "Příbram"
+      },
+      {
+        "nome": "David Jurásek",
+        "time": "Hoffenheim",
+        "idade": 25,
+        "cidade_nascimento": "Dolní Němčí"
+      }
+    ]
+  },
+  {
+    "pais": "Canadá",
+    "tecnico": "Jesse Marsch",
+    "jogadores": [
+      {
+        "nome": "Alphonso Davies",
+        "time": "Bayern Munich",
+        "idade": 25,
+        "cidade_nascimento": "Buduburam"
+      },
+      {
+        "nome": "Jonathan David",
+        "time": "Lille",
+        "idade": 26,
+        "cidade_nascimento": "Brooklyn"
+      },
+      {
+        "nome": "Tajon Buchanan",
+        "time": "Inter Milan",
+        "idade": 27,
+        "cidade_nascimento": "Brampton"
+      },
+      {
+        "nome": "Stephen Eustáquio",
+        "time": "Porto",
+        "idade": 29,
+        "cidade_nascimento": "Leamington"
+      },
+      {
+        "nome": "Cyle Larin",
+        "time": "Mallorca",
+        "idade": 31,
+        "cidade_nascimento": "Brampton"
+      },
+      {
+        "nome": "Ismaël Koné",
+        "time": "Marseille",
+        "idade": 24,
+        "cidade_nascimento": "Abidjan"
+      },
+      {
+        "nome": "Alistair Johnston",
+        "time": "Celtic",
+        "idade": 27,
+        "cidade_nascimento": "Vancouver"
+      },
+      {
+        "nome": "Moïse Bombito",
+        "time": "Nice",
+        "idade": 26,
+        "cidade_nascimento": "Montreal"
+      },
+      {
+        "nome": "Maxime Crépeau",
+        "time": "Portland Timbers",
+        "idade": 32,
+        "cidade_nascimento": "Greenfield Park"
+      },
+      {
+        "nome": "Thelonius Bair",
+        "time": "Auxerre",
+        "idade": 26,
+        "cidade_nascimento": "Ottawa"
+      }
+    ]
+  },
+  {
+    "pais": "Bósnia e Herzegovina",
+    "tecnico": "Sergej Barbarez",
+    "jogadores": [
+      {
+        "nome": "Edin Džeko",
+        "time": "Fenerbahçe",
+        "idade": 40,
+        "cidade_nascimento": "Sarajevo"
+      },
+      {
+        "nome": "Sead Kolašinac",
+        "time": "Atalanta",
+        "idade": 33,
+        "cidade_nascimento": "Karlsruhe"
+      },
+      {
+        "nome": "Rade Krunić",
+        "time": "Crvena Zvezda",
+        "idade": 32,
+        "cidade_nascimento": "Foča"
+      },
+      {
+        "nome": "Amar Dedić",
+        "time": "Marseille",
+        "idade": 23,
+        "cidade_nascimento": "Zell am See"
+      },
+      {
+        "nome": "Ermedin Demirović",
+        "time": "Stuttgart",
+        "idade": 28,
+        "cidade_nascimento": "Hamburgo"
+      },
+      {
+        "nome": "Haris Tabaković",
+        "time": "Hoffenheim",
+        "idade": 31,
+        "cidade_nascimento": "Grenchen"
+      },
+      {
+        "nome": "Benjamin Tahirović",
+        "time": "Ajax",
+        "idade": 23,
+        "cidade_nascimento": "Spånga"
+      },
+      {
+        "nome": "Anel Ahmedhodžić",
+        "time": "Sheffield United",
+        "idade": 27,
+        "cidade_nascimento": "Malmö"
+      },
+      {
+        "nome": "Nikola Vasilj",
+        "time": "St. Pauli",
+        "idade": 30,
+        "cidade_nascimento": "Mostar"
+      },
+      {
+        "nome": "Dennis Hadžikadunić",
+        "time": "Hamburger SV",
+        "idade": 27,
+        "cidade_nascimento": "Malmö"
+      }
+    ]
+  },
+  {
+    "pais": "Qatar",
+    "tecnico": "Julen Lopetegui",
+    "jogadores": [
+      {
+        "nome": "Akram Afif",
+        "time": "Al Sadd",
+        "idade": 29,
+        "cidade_nascimento": "Doha"
+      },
+      {
+        "nome": "Almoez Ali",
+        "time": "Al Duhail",
+        "idade": 29,
+        "cidade_nascimento": "Cartum"
+      },
+      {
+        "nome": "Hassan Al-Haydos",
+        "time": "Al Sadd",
+        "idade": 35,
+        "cidade_nascimento": "Doha"
+      },
+      {
+        "nome": "Meshaal Barsham",
+        "time": "Al Sadd",
+        "idade": 28,
+        "cidade_nascimento": "Doha"
+      },
+      {
+        "nome": "Boualem Khoukhi",
+        "time": "Al Sadd",
+        "idade": 35,
+        "cidade_nascimento": "Bousmail"
+      },
+      {
+        "nome": "Abdelkarim Hassan",
+        "time": "Al Wakrah",
+        "idade": 32,
+        "cidade_nascimento": "Doha"
+      },
+      {
+        "nome": "Homam Ahmed",
+        "time": "Al Gharafa",
+        "idade": 26,
+        "cidade_nascimento": "Doha"
+      },
+      {
+        "nome": "Tarek Salman",
+        "time": "Al Sadd",
+        "idade": 28,
+        "cidade_nascimento": "Al Wakrah"
+      },
+      {
+        "nome": "Karim Boudiaf",
+        "time": "Al Duhail",
+        "idade": 35,
+        "cidade_nascimento": "Rueil-Malmaison"
+      },
+      {
+        "nome": "Ahmed Alaaeldin",
+        "time": "Al Gharafa",
+        "idade": 33,
+        "cidade_nascimento": "Doha"
+      }
+    ]
+  },
+  {
+    "pais": "Suíça",
+    "tecnico": "Murat Yakin",
+    "jogadores": [
+      {
+        "nome": "Yann Sommer",
+        "time": "Inter Milan",
+        "idade": 37,
+        "cidade_nascimento": "Morges"
+      },
+      {
+        "nome": "Manuel Akanji",
+        "time": "Manchester City",
+        "idade": 30,
+        "cidade_nascimento": "Neftenbach"
+      },
+      {
+        "nome": "Granit Xhaka",
+        "time": "Bayer Leverkusen",
+        "idade": 33,
+        "cidade_nascimento": "Basel"
+      },
+      {
+        "nome": "Breel Embolo",
+        "time": "Monaco",
+        "idade": 29,
+        "cidade_nascimento": "Yaoundé"
+      },
+      {
+        "nome": "Xherdan Shaqiri",
+        "time": "Basel",
+        "idade": 34,
+        "cidade_nascimento": "Gjilan"
+      },
+      {
+        "nome": "Denis Zakaria",
+        "time": "Monaco",
+        "idade": 29,
+        "cidade_nascimento": "Genebra"
+      },
+      {
+        "nome": "Remo Freuler",
+        "time": "Bologna",
+        "idade": 34,
+        "cidade_nascimento": "Ennenda"
+      },
+      {
+        "nome": "Noah Okafor",
+        "time": "AC Milan",
+        "idade": 25,
+        "cidade_nascimento": "Binningen"
+      },
+      {
+        "nome": "Gregor Kobel",
+        "time": "Borussia Dortmund",
+        "idade": 28,
+        "cidade_nascimento": "Zurique"
+      },
+      {
+        "nome": "Dan Ndoye",
+        "time": "Bologna",
+        "idade": 25,
+        "cidade_nascimento": "Nyon"
+      }
+    ]
+  },
+  {
+    "pais": "Brasil",
+    "tecnico": "Carlo Ancelotti",
+    "jogadores": [
+      {
+        "nome": "Alisson",
+        "time": "Liverpool",
+        "idade": 33,
+        "cidade_nascimento": "Novo Hamburgo"
+      },
+      {
+        "nome": "Ederson",
+        "time": "Manchester City",
+        "idade": 32,
+        "cidade_nascimento": "Osasco"
+      },
+      {
+        "nome": "Marquinhos",
+        "time": "Paris Saint-Germain",
+        "idade": 31,
+        "cidade_nascimento": "São Paulo"
+      },
+      {
+        "nome": "Éder Militão",
+        "time": "Real Madrid",
+        "idade": 28,
+        "cidade_nascimento": "Sertãozinho"
+      },
+      {
+        "nome": "Bruno Guimarães",
+        "time": "Newcastle United",
+        "idade": 28,
+        "cidade_nascimento": "Rio de Janeiro"
+      },
+      {
+        "nome": "Casemiro",
+        "time": "Manchester United",
+        "idade": 34,
+        "cidade_nascimento": "São José dos Campos"
+      },
+      {
+        "nome": "Lucas Paquetá",
+        "time": "West Ham United",
+        "idade": 28,
+        "cidade_nascimento": "Rio de Janeiro"
+      },
+      {
+        "nome": "Vinícius Júnior",
+        "time": "Real Madrid",
+        "idade": 25,
+        "cidade_nascimento": "São Gonçalo"
+      },
+      {
+        "nome": "Rodrygo",
+        "time": "Real Madrid",
+        "idade": 25,
+        "cidade_nascimento": "Osasco"
+      },
+      {
+        "nome": "Neymar",
+        "time": "Santos",
+        "idade": 34,
+        "cidade_nascimento": "Mogi das Cruzes"
+      }
+    ]
+  },
+  {
+    "pais": "Marrocos",
+    "tecnico": "Walid Regragui",
+    "jogadores": [
+      {
+        "nome": "Yassine Bounou",
+        "time": "Al Hilal",
+        "idade": 35,
+        "cidade_nascimento": "Montreal"
+      },
+      {
+        "nome": "Achraf Hakimi",
+        "time": "Paris Saint-Germain",
+        "idade": 27,
+        "cidade_nascimento": "Madri"
+      },
+      {
+        "nome": "Noussair Mazraoui",
+        "time": "Manchester United",
+        "idade": 28,
+        "cidade_nascimento": "Leiderdorp"
+      },
+      {
+        "nome": "Romain Saïss",
+        "time": "Al Sadd",
+        "idade": 36,
+        "cidade_nascimento": "Bourg-de-Péage"
+      },
+      {
+        "nome": "Sofyan Amrabat",
+        "time": "Fenerbahçe",
+        "idade": 29,
+        "cidade_nascimento": "Huizen"
+      },
+      {
+        "nome": "Azzedine Ounahi",
+        "time": "Panathinaikos",
+        "idade": 26,
+        "cidade_nascimento": "Casablanca"
+      },
+      {
+        "nome": "Hakim Ziyech",
+        "time": "Al-Duhail",
+        "idade": 33,
+        "cidade_nascimento": "Dronten"
+      },
+      {
+        "nome": "Youssef En-Nesyri",
+        "time": "Fenerbahçe",
+        "idade": 29,
+        "cidade_nascimento": "Fez"
+      },
+      {
+        "nome": "Amine Adli",
+        "time": "Bayer Leverkusen",
+        "idade": 26,
+        "cidade_nascimento": "Béziers"
+      },
+      {
+        "nome": "Bilal El Khannouss",
+        "time": "Leicester City",
+        "idade": 22,
+        "cidade_nascimento": "Strombeek-Bever"
+      }
+    ]
+  },
+  {
+    "pais": "Haiti",
+    "tecnico": "Sébastien Migné",
+    "jogadores": [
+      {
+        "nome": "Frantzdy Pierrot",
+        "time": "AEK Athens",
+        "idade": 31,
+        "cidade_nascimento": "Cap-Haïtien"
+      },
+      {
+        "nome": "Duckens Nazon",
+        "time": "Kayserispor",
+        "idade": 32,
+        "cidade_nascimento": "Châtenay-Malabry"
+      },
+      {
+        "nome": "Jean-Kévin Duverne",
+        "time": "Nantes",
+        "idade": 28,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Ricardo Adé",
+        "time": "LDU Quito",
+        "idade": 35,
+        "cidade_nascimento": "Saint-Marc"
+      },
+      {
+        "nome": "Danley Jean Jacques",
+        "time": "Metz",
+        "idade": 25,
+        "cidade_nascimento": "Petit-Goâve"
+      },
+      {
+        "nome": "Wilde-Donald Guerrier",
+        "time": "A confirmar",
+        "idade": 37,
+        "cidade_nascimento": "Port-à-Piment"
+      },
+      {
+        "nome": "Johny Placide",
+        "time": "Bastia",
+        "idade": 38,
+        "cidade_nascimento": "Montfermeil"
+      },
+      {
+        "nome": "Derrick Etienne Jr.",
+        "time": "Toronto FC",
+        "idade": 29,
+        "cidade_nascimento": "Richmond"
+      },
+      {
+        "nome": "Carlens Arcus",
+        "time": "Angers",
+        "idade": 29,
+        "cidade_nascimento": "Port-au-Prince"
+      },
+      {
+        "nome": "Bryan Alceus",
+        "time": "Doxa Katokopias",
+        "idade": 30,
+        "cidade_nascimento": "Colombes"
+      }
+    ]
+  },
+  {
+    "pais": "Escócia",
+    "tecnico": "Steve Clarke",
+    "jogadores": [
+      {
+        "nome": "Andrew Robertson",
+        "time": "Liverpool",
+        "idade": 32,
+        "cidade_nascimento": "Glasgow"
+      },
+      {
+        "nome": "Kieran Tierney",
+        "time": "Real Sociedad",
+        "idade": 29,
+        "cidade_nascimento": "Douglas"
+      },
+      {
+        "nome": "Scott McTominay",
+        "time": "Napoli",
+        "idade": 29,
+        "cidade_nascimento": "Lancaster"
+      },
+      {
+        "nome": "Billy Gilmour",
+        "time": "Napoli",
+        "idade": 25,
+        "cidade_nascimento": "Irvine"
+      },
+      {
+        "nome": "John McGinn",
+        "time": "Aston Villa",
+        "idade": 31,
+        "cidade_nascimento": "Glasgow"
+      },
+      {
+        "nome": "Che Adams",
+        "time": "Torino",
+        "idade": 29,
+        "cidade_nascimento": "Leicester"
+      },
+      {
+        "nome": "Lyndon Dykes",
+        "time": "Birmingham City",
+        "idade": 30,
+        "cidade_nascimento": "Gold Coast"
+      },
+      {
+        "nome": "Angus Gunn",
+        "time": "Norwich City",
+        "idade": 30,
+        "cidade_nascimento": "Norwich"
+      },
+      {
+        "nome": "Ryan Christie",
+        "time": "Bournemouth",
+        "idade": 31,
+        "cidade_nascimento": "Inverness"
+      },
+      {
+        "nome": "Lewis Ferguson",
+        "time": "Bologna",
+        "idade": 26,
+        "cidade_nascimento": "Hamilton"
+      }
+    ]
+  },
+  {
+    "pais": "Estados Unidos",
+    "tecnico": "Mauricio Pochettino",
+    "jogadores": [
+      {
+        "nome": "Christian Pulisic",
+        "time": "AC Milan",
+        "idade": 27,
+        "cidade_nascimento": "Hershey"
+      },
+      {
+        "nome": "Weston McKennie",
+        "time": "Juventus",
+        "idade": 27,
+        "cidade_nascimento": "Little Elm"
+      },
+      {
+        "nome": "Tyler Adams",
+        "time": "Bournemouth",
+        "idade": 27,
+        "cidade_nascimento": "Wappingers Falls"
+      },
+      {
+        "nome": "Gio Reyna",
+        "time": "Borussia Dortmund",
+        "idade": 23,
+        "cidade_nascimento": "Sunderland"
+      },
+      {
+        "nome": "Tim Weah",
+        "time": "Juventus",
+        "idade": 26,
+        "cidade_nascimento": "Nova York"
+      },
+      {
+        "nome": "Folarin Balogun",
+        "time": "Monaco",
+        "idade": 24,
+        "cidade_nascimento": "Nova York"
+      },
+      {
+        "nome": "Sergiño Dest",
+        "time": "PSV",
+        "idade": 25,
+        "cidade_nascimento": "Almere"
+      },
+      {
+        "nome": "Antonee Robinson",
+        "time": "Fulham",
+        "idade": 28,
+        "cidade_nascimento": "Milton Keynes"
+      },
+      {
+        "nome": "Matt Turner",
+        "time": "Crystal Palace",
+        "idade": 31,
+        "cidade_nascimento": "Park Ridge"
+      },
+      {
+        "nome": "Yunus Musah",
+        "time": "AC Milan",
+        "idade": 23,
+        "cidade_nascimento": "Nova York"
+      }
+    ]
+  },
+  {
+    "pais": "Paraguai",
+    "tecnico": "Gustavo Alfaro",
+    "jogadores": [
+      {
+        "nome": "Miguel Almirón",
+        "time": "Atlanta United",
+        "idade": 32,
+        "cidade_nascimento": "Assunção"
+      },
+      {
+        "nome": "Julio Enciso",
+        "time": "Brighton",
+        "idade": 22,
+        "cidade_nascimento": "Caaguazú"
+      },
+      {
+        "nome": "Gustavo Gómez",
+        "time": "Palmeiras",
+        "idade": 33,
+        "cidade_nascimento": "San Juan Bautista"
+      },
+      {
+        "nome": "Ramón Sosa",
+        "time": "Nottingham Forest",
+        "idade": 26,
+        "cidade_nascimento": "Maracaná"
+      },
+      {
+        "nome": "Diego Gómez",
+        "time": "Brighton",
+        "idade": 23,
+        "cidade_nascimento": "San Juan Bautista"
+      },
+      {
+        "nome": "Mathías Villasanti",
+        "time": "Grêmio",
+        "idade": 29,
+        "cidade_nascimento": "Caacupé"
+      },
+      {
+        "nome": "Omar Alderete",
+        "time": "Getafe",
+        "idade": 29,
+        "cidade_nascimento": "Assunção"
+      },
+      {
+        "nome": "Junior Alonso",
+        "time": "Atlético Mineiro",
+        "idade": 33,
+        "cidade_nascimento": "Assunção"
+      },
+      {
+        "nome": "Roberto Fernández",
+        "time": "Botafogo",
+        "idade": 26,
+        "cidade_nascimento": "Concepción"
+      },
+      {
+        "nome": "Gabriel Ávalos",
+        "time": "Independiente",
+        "idade": 35,
+        "cidade_nascimento": "Hohenau"
+      }
+    ]
+  },
+  {
+    "pais": "Austrália",
+    "tecnico": "Tony Popovic",
+    "jogadores": [
+      {
+        "nome": "Mathew Ryan",
+        "time": "Lens",
+        "idade": 34,
+        "cidade_nascimento": "Plumpton"
+      },
+      {
+        "nome": "Harry Souttar",
+        "time": "Sheffield United",
+        "idade": 27,
+        "cidade_nascimento": "Aberdeen"
+      },
+      {
+        "nome": "Kye Rowles",
+        "time": "Hearts",
+        "idade": 28,
+        "cidade_nascimento": "Kiama"
+      },
+      {
+        "nome": "Jackson Irvine",
+        "time": "St. Pauli",
+        "idade": 33,
+        "cidade_nascimento": "Melbourne"
+      },
+      {
+        "nome": "Ajdin Hrustic",
+        "time": "Hellas Verona",
+        "idade": 29,
+        "cidade_nascimento": "Melbourne"
+      },
+      {
+        "nome": "Craig Goodwin",
+        "time": "Al-Wehda",
+        "idade": 34,
+        "cidade_nascimento": "Adelaide"
+      },
+      {
+        "nome": "Riley McGree",
+        "time": "Middlesbrough",
+        "idade": 27,
+        "cidade_nascimento": "Gawler"
+      },
+      {
+        "nome": "Martin Boyle",
+        "time": "Hibernian",
+        "idade": 33,
+        "cidade_nascimento": "Aberdeen"
+      },
+      {
+        "nome": "Gethin Jones",
+        "time": "Bolton Wanderers",
+        "idade": 30,
+        "cidade_nascimento": "Perth"
+      },
+      {
+        "nome": "Mitchell Duke",
+        "time": "Machida Zelvia",
+        "idade": 35,
+        "cidade_nascimento": "Liverpool"
+      }
+    ]
+  },
+  {
+    "pais": "Turquia",
+    "tecnico": "Vincenzo Montella",
+    "jogadores": [
+      {
+        "nome": "Hakan Çalhanoğlu",
+        "time": "Inter Milan",
+        "idade": 32,
+        "cidade_nascimento": "Mannheim"
+      },
+      {
+        "nome": "Arda Güler",
+        "time": "Real Madrid",
+        "idade": 21,
+        "cidade_nascimento": "Ancara"
+      },
+      {
+        "nome": "Kenan Yıldız",
+        "time": "Juventus",
+        "idade": 21,
+        "cidade_nascimento": "Regensburg"
+      },
+      {
+        "nome": "Orkun Kökçü",
+        "time": "Benfica",
+        "idade": 25,
+        "cidade_nascimento": "Haarlem"
+      },
+      {
+        "nome": "Merih Demiral",
+        "time": "Al Ahli",
+        "idade": 28,
+        "cidade_nascimento": "Karamürsel"
+      },
+      {
+        "nome": "Uğurcan Çakır",
+        "time": "Trabzonspor",
+        "idade": 30,
+        "cidade_nascimento": "Antália"
+      },
+      {
+        "nome": "Kerem Aktürkoğlu",
+        "time": "Benfica",
+        "idade": 27,
+        "cidade_nascimento": "İzmit"
+      },
+      {
+        "nome": "Ferdi Kadıoğlu",
+        "time": "Brighton",
+        "idade": 26,
+        "cidade_nascimento": "Arnhem"
+      },
+      {
+        "nome": "Barış Alper Yılmaz",
+        "time": "Galatasaray",
+        "idade": 26,
+        "cidade_nascimento": "Rize"
+      },
+      {
+        "nome": "İrfan Can Kahveci",
+        "time": "Fenerbahçe",
+        "idade": 30,
+        "cidade_nascimento": "Bayat"
+      }
+    ]
+  },
+  {
+    "pais": "Espanha",
+    "tecnico": "Luis de la Fuente",
+    "jogadores": [
+      {
+        "nome": "Unai Simón",
+        "time": "Athletic Club",
+        "idade": 28,
+        "cidade_nascimento": "Vitoria-Gasteiz"
+      },
+      {
+        "nome": "Dani Carvajal",
+        "time": "Real Madrid",
+        "idade": 34,
+        "cidade_nascimento": "Leganés"
+      },
+      {
+        "nome": "Aymeric Laporte",
+        "time": "Al Nassr",
+        "idade": 32,
+        "cidade_nascimento": "Agen"
+      },
+      {
+        "nome": "Rodri",
+        "time": "Manchester City",
+        "idade": 29,
+        "cidade_nascimento": "Madri"
+      },
+      {
+        "nome": "Pedri",
+        "time": "Barcelona",
+        "idade": 23,
+        "cidade_nascimento": "Tegueste"
+      },
+      {
+        "nome": "Gavi",
+        "time": "Barcelona",
+        "idade": 21,
+        "cidade_nascimento": "Los Palacios y Villafranca"
+      },
+      {
+        "nome": "Fabián Ruiz",
+        "time": "Paris Saint-Germain",
+        "idade": 30,
+        "cidade_nascimento": "Los Palacios y Villafranca"
+      },
+      {
+        "nome": "Lamine Yamal",
+        "time": "Barcelona",
+        "idade": 18,
+        "cidade_nascimento": "Esplugues de Llobregat"
+      },
+      {
+        "nome": "Nico Williams",
+        "time": "Athletic Club",
+        "idade": 23,
+        "cidade_nascimento": "Pamplona"
+      },
+      {
+        "nome": "Álvaro Morata",
+        "time": "Galatasaray",
+        "idade": 33,
+        "cidade_nascimento": "Madri"
+      }
+    ]
+  },
+  {
+    "pais": "Cabo Verde",
+    "tecnico": "Bubista",
+    "jogadores": [
+      {
+        "nome": "Vozinha",
+        "time": "Chaves",
+        "idade": 40,
+        "cidade_nascimento": "Mindelo"
+      },
+      {
+        "nome": "Roberto Lopes",
+        "time": "Shamrock Rovers",
+        "idade": 33,
+        "cidade_nascimento": "Dublin"
+      },
+      {
+        "nome": "Logan Costa",
+        "time": "Villarreal",
+        "idade": 25,
+        "cidade_nascimento": "Saint-Denis"
+      },
+      {
+        "nome": "Dylan Tavares",
+        "time": "Bastia",
+        "idade": 29,
+        "cidade_nascimento": "Genebra"
+      },
+      {
+        "nome": "Patrick Andrade",
+        "time": "Qarabağ",
+        "idade": 33,
+        "cidade_nascimento": "Praia"
+      },
+      {
+        "nome": "Jamiro Monteiro",
+        "time": "San Jose Earthquakes",
+        "idade": 32,
+        "cidade_nascimento": "Roterdã"
+      },
+      {
+        "nome": "Ryan Mendes",
+        "time": "Fatih Karagümrük",
+        "idade": 36,
+        "cidade_nascimento": "Fogo"
+      },
+      {
+        "nome": "Bebé",
+        "time": "Rayo Vallecano",
+        "idade": 35,
+        "cidade_nascimento": "Agualva-Cacém"
+      },
+      {
+        "nome": "Jovane Cabral",
+        "time": "Estrela da Amadora",
+        "idade": 28,
+        "cidade_nascimento": "Assomada"
+      },
+      {
+        "nome": "Garry Rodrigues",
+        "time": "Ankaragücü",
+        "idade": 35,
+        "cidade_nascimento": "Roterdã"
+      }
+    ]
+  },
+  {
+    "pais": "Arábia Saudita",
+    "tecnico": "Hervé Renard",
+    "jogadores": [
+      {
+        "nome": "Salem Al-Dawsari",
+        "time": "Al Hilal",
+        "idade": 34,
+        "cidade_nascimento": "Jeddah"
+      },
+      {
+        "nome": "Mohammed Al-Owais",
+        "time": "Al Hilal",
+        "idade": 34,
+        "cidade_nascimento": "Al-Hasa"
+      },
+      {
+        "nome": "Ali Al-Bulaihi",
+        "time": "Al Hilal",
+        "idade": 36,
+        "cidade_nascimento": "Najran"
+      },
+      {
+        "nome": "Saud Abdulhamid",
+        "time": "Roma",
+        "idade": 26,
+        "cidade_nascimento": "Jeddah"
+      },
+      {
+        "nome": "Firas Al-Buraikan",
+        "time": "Al Ahli",
+        "idade": 26,
+        "cidade_nascimento": "Riad"
+      },
+      {
+        "nome": "Saleh Al-Shehri",
+        "time": "Al Ittihad",
+        "idade": 32,
+        "cidade_nascimento": "Jeddah"
+      },
+      {
+        "nome": "Mohamed Kanno",
+        "time": "Al Hilal",
+        "idade": 31,
+        "cidade_nascimento": "Khobar"
+      },
+      {
+        "nome": "Abdulelah Al-Malki",
+        "time": "Al Ettifaq",
+        "idade": 31,
+        "cidade_nascimento": "Taif"
+      },
+      {
+        "nome": "Nasser Al-Dawsari",
+        "time": "Al Hilal",
+        "idade": 27,
+        "cidade_nascimento": "Riad"
+      },
+      {
+        "nome": "Hassan Tambakti",
+        "time": "Al Hilal",
+        "idade": 27,
+        "cidade_nascimento": "Riad"
+      }
+    ]
+  },
+  {
+    "pais": "Uruguai",
+    "tecnico": "Marcelo Bielsa",
+    "jogadores": [
+      {
+        "nome": "Federico Valverde",
+        "time": "Real Madrid",
+        "idade": 27,
+        "cidade_nascimento": "Montevidéu"
+      },
+      {
+        "nome": "Darwin Núñez",
+        "time": "Liverpool",
+        "idade": 26,
+        "cidade_nascimento": "Artigas"
+      },
+      {
+        "nome": "Ronald Araújo",
+        "time": "Barcelona",
+        "idade": 27,
+        "cidade_nascimento": "Rivera"
+      },
+      {
+        "nome": "José María Giménez",
+        "time": "Atlético Madrid",
+        "idade": 31,
+        "cidade_nascimento": "Toledo"
+      },
+      {
+        "nome": "Manuel Ugarte",
+        "time": "Manchester United",
+        "idade": 25,
+        "cidade_nascimento": "Montevidéu"
+      },
+      {
+        "nome": "Rodrigo Bentancur",
+        "time": "Tottenham Hotspur",
+        "idade": 28,
+        "cidade_nascimento": "Nueva Helvecia"
+      },
+      {
+        "nome": "Nicolás de la Cruz",
+        "time": "Flamengo",
+        "idade": 28,
+        "cidade_nascimento": "Montevidéu"
+      },
+      {
+        "nome": "Facundo Pellistri",
+        "time": "Panathinaikos",
+        "idade": 24,
+        "cidade_nascimento": "Montevidéu"
+      },
+      {
+        "nome": "Sergio Rochet",
+        "time": "Internacional",
+        "idade": 33,
+        "cidade_nascimento": "Nueva Palmira"
+      },
+      {
+        "nome": "Luis Suárez",
+        "time": "Inter Miami",
+        "idade": 39,
+        "cidade_nascimento": "Salto"
+      }
+    ]
+  },
+  {
+    "pais": "Noruega",
+    "tecnico": "Ståle Solbakken",
+    "jogadores": [
+      {
+        "nome": "Erling Haaland",
+        "time": "Manchester City",
+        "idade": 25,
+        "cidade_nascimento": "Leeds"
+      },
+      {
+        "nome": "Martin Ødegaard",
+        "time": "Arsenal",
+        "idade": 27,
+        "cidade_nascimento": "Drammen"
+      },
+      {
+        "nome": "Alexander Sørloth",
+        "time": "Atlético Madrid",
+        "idade": 30,
+        "cidade_nascimento": "Trondheim"
+      },
+      {
+        "nome": "Oscar Bobb",
+        "time": "Manchester City",
+        "idade": 22,
+        "cidade_nascimento": "Oslo"
+      },
+      {
+        "nome": "Sander Berge",
+        "time": "Fulham",
+        "idade": 28,
+        "cidade_nascimento": "Bærum"
+      },
+      {
+        "nome": "Kristoffer Ajer",
+        "time": "Brentford",
+        "idade": 28,
+        "cidade_nascimento": "Rælingen"
+      },
+      {
+        "nome": "Ørjan Nyland",
+        "time": "Sevilla",
+        "idade": 35,
+        "cidade_nascimento": "Volda"
+      },
+      {
+        "nome": "Julian Ryerson",
+        "time": "Borussia Dortmund",
+        "idade": 28,
+        "cidade_nascimento": "Lyngdal"
+      },
+      {
+        "nome": "Antonio Nusa",
+        "time": "RB Leipzig",
+        "idade": 21,
+        "cidade_nascimento": "Langhus"
+      },
+      {
+        "nome": "Leo Østigård",
+        "time": "Rennes",
+        "idade": 26,
+        "cidade_nascimento": "Åndalsnes"
+      }
+    ]
+  },
+  {
+    "pais": "Iraque",
+    "tecnico": "Jesús Casas",
+    "jogadores": [
+      {
+        "nome": "Jalal Hassan",
+        "time": "Al-Zawraa",
+        "idade": 35,
+        "cidade_nascimento": "Diwaniya"
+      },
+      {
+        "nome": "Aymen Hussein",
+        "time": "Al-Khor",
+        "idade": 30,
+        "cidade_nascimento": "Kirkuk"
+      },
+      {
+        "nome": "Ali Adnan",
+        "time": "Al-Quwa Al-Jawiya",
+        "idade": 32,
+        "cidade_nascimento": "Bagdá"
+      },
+      {
+        "nome": "Ibrahim Bayesh",
+        "time": "Al-Riyadh",
+        "idade": 26,
+        "cidade_nascimento": "Bagdá"
+      },
+      {
+        "nome": "Amir Al-Ammari",
+        "time": "Halmstads BK",
+        "idade": 28,
+        "cidade_nascimento": "Jönköping"
+      },
+      {
+        "nome": "Zidane Iqbal",
+        "time": "Utrecht",
+        "idade": 23,
+        "cidade_nascimento": "Manchester"
+      },
+      {
+        "nome": "Hussein Ali",
+        "time": "Heerenveen",
+        "idade": 29,
+        "cidade_nascimento": "Malmö"
+      },
+      {
+        "nome": "Mohanad Ali",
+        "time": "Al-Shorta",
+        "idade": 25,
+        "cidade_nascimento": "Bagdá"
+      },
+      {
+        "nome": "Rebin Sulaka",
+        "time": "Brommapojkarna",
+        "idade": 34,
+        "cidade_nascimento": "Ankawa"
+      },
+      {
+        "nome": "Merchas Doski",
+        "time": "Slovácko",
+        "idade": 26,
+        "cidade_nascimento": "Hanôver"
+      }
+    ]
+  },
+  {
+    "pais": "França",
+    "tecnico": "Didier Deschamps",
+    "jogadores": [
+      {
+        "nome": "Mike Maignan",
+        "time": "AC Milan",
+        "idade": 30,
+        "cidade_nascimento": "Cayenne"
+      },
+      {
+        "nome": "William Saliba",
+        "time": "Arsenal",
+        "idade": 25,
+        "cidade_nascimento": "Bondy"
+      },
+      {
+        "nome": "Jules Koundé",
+        "time": "Barcelona",
+        "idade": 27,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Theo Hernández",
+        "time": "AC Milan",
+        "idade": 28,
+        "cidade_nascimento": "Marselha"
+      },
+      {
+        "nome": "Aurélien Tchouaméni",
+        "time": "Real Madrid",
+        "idade": 26,
+        "cidade_nascimento": "Rouen"
+      },
+      {
+        "nome": "Eduardo Camavinga",
+        "time": "Real Madrid",
+        "idade": 23,
+        "cidade_nascimento": "Miconge"
+      },
+      {
+        "nome": "Antoine Griezmann",
+        "time": "Atlético Madrid",
+        "idade": 35,
+        "cidade_nascimento": "Mâcon"
+      },
+      {
+        "nome": "Kylian Mbappé",
+        "time": "Real Madrid",
+        "idade": 27,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Ousmane Dembélé",
+        "time": "Paris Saint-Germain",
+        "idade": 28,
+        "cidade_nascimento": "Vernon"
+      },
+      {
+        "nome": "Marcus Thuram",
+        "time": "Inter Milan",
+        "idade": 28,
+        "cidade_nascimento": "Parma"
+      }
+    ]
+  },
+  {
+    "pais": "Senegal",
+    "tecnico": "Pape Thiaw",
+    "jogadores": [
+      {
+        "nome": "Édouard Mendy",
+        "time": "Al Ahli",
+        "idade": 34,
+        "cidade_nascimento": "Montivilliers"
+      },
+      {
+        "nome": "Kalidou Koulibaly",
+        "time": "Al Hilal",
+        "idade": 34,
+        "cidade_nascimento": "Saint-Dié-des-Vosges"
+      },
+      {
+        "nome": "Pape Matar Sarr",
+        "time": "Tottenham Hotspur",
+        "idade": 23,
+        "cidade_nascimento": "Thiaroye"
+      },
+      {
+        "nome": "Idrissa Gueye",
+        "time": "Everton",
+        "idade": 36,
+        "cidade_nascimento": "Dacar"
+      },
+      {
+        "nome": "Ismaïla Sarr",
+        "time": "Crystal Palace",
+        "idade": 28,
+        "cidade_nascimento": "Saint-Louis"
+      },
+      {
+        "nome": "Nicolas Jackson",
+        "time": "Chelsea",
+        "idade": 24,
+        "cidade_nascimento": "Banjul"
+      },
+      {
+        "nome": "Sadio Mané",
+        "time": "Al Nassr",
+        "idade": 34,
+        "cidade_nascimento": "Bambali"
+      },
+      {
+        "nome": "Habib Diallo",
+        "time": "Al Shabab",
+        "idade": 30,
+        "cidade_nascimento": "Thiès"
+      },
+      {
+        "nome": "Iliman Ndiaye",
+        "time": "Everton",
+        "idade": 26,
+        "cidade_nascimento": "Rouen"
+      },
+      {
+        "nome": "Lamine Camara",
+        "time": "Monaco",
+        "idade": 22,
+        "cidade_nascimento": "Diouloulou"
+      }
+    ]
+  },
+  {
+    "pais": "Argentina",
+    "tecnico": "Lionel Scaloni",
+    "jogadores": [
+      {
+        "nome": "Emiliano Martínez",
+        "time": "Aston Villa",
+        "idade": 33,
+        "cidade_nascimento": "Mar del Plata"
+      },
+      {
+        "nome": "Cristian Romero",
+        "time": "Tottenham Hotspur",
+        "idade": 28,
+        "cidade_nascimento": "Córdoba"
+      },
+      {
+        "nome": "Nicolás Otamendi",
+        "time": "Benfica",
+        "idade": 38,
+        "cidade_nascimento": "Buenos Aires"
+      },
+      {
+        "nome": "Enzo Fernández",
+        "time": "Chelsea",
+        "idade": 25,
+        "cidade_nascimento": "San Martín"
+      },
+      {
+        "nome": "Rodrigo De Paul",
+        "time": "Atlético Madrid",
+        "idade": 32,
+        "cidade_nascimento": "Sarandí"
+      },
+      {
+        "nome": "Alexis Mac Allister",
+        "time": "Liverpool",
+        "idade": 27,
+        "cidade_nascimento": "Santa Rosa"
+      },
+      {
+        "nome": "Julián Álvarez",
+        "time": "Atlético Madrid",
+        "idade": 26,
+        "cidade_nascimento": "Calchín"
+      },
+      {
+        "nome": "Lautaro Martínez",
+        "time": "Inter Milan",
+        "idade": 28,
+        "cidade_nascimento": "Bahía Blanca"
+      },
+      {
+        "nome": "Ángel Di María",
+        "time": "Benfica",
+        "idade": 38,
+        "cidade_nascimento": "Rosário"
+      },
+      {
+        "nome": "Lionel Messi",
+        "time": "Inter Miami",
+        "idade": 38,
+        "cidade_nascimento": "Rosário"
+      }
+    ]
+  },
+  {
+    "pais": "Áustria",
+    "tecnico": "Ralf Rangnick",
+    "jogadores": [
+      {
+        "nome": "David Alaba",
+        "time": "Real Madrid",
+        "idade": 33,
+        "cidade_nascimento": "Viena"
+      },
+      {
+        "nome": "Marcel Sabitzer",
+        "time": "Borussia Dortmund",
+        "idade": 32,
+        "cidade_nascimento": "Wels"
+      },
+      {
+        "nome": "Konrad Laimer",
+        "time": "Bayern Munich",
+        "idade": 28,
+        "cidade_nascimento": "Salzburgo"
+      },
+      {
+        "nome": "Marko Arnautović",
+        "time": "Inter Milan",
+        "idade": 37,
+        "cidade_nascimento": "Viena"
+      },
+      {
+        "nome": "Christoph Baumgartner",
+        "time": "RB Leipzig",
+        "idade": 26,
+        "cidade_nascimento": "Horn"
+      },
+      {
+        "nome": "Michael Gregoritsch",
+        "time": "Freiburg",
+        "idade": 32,
+        "cidade_nascimento": "Graz"
+      },
+      {
+        "nome": "Nicolas Seiwald",
+        "time": "RB Leipzig",
+        "idade": 24,
+        "cidade_nascimento": "Kuchl"
+      },
+      {
+        "nome": "Patrick Wimmer",
+        "time": "Wolfsburg",
+        "idade": 24,
+        "cidade_nascimento": "Tulln"
+      },
+      {
+        "nome": "Alexander Schlager",
+        "time": "Red Bull Salzburg",
+        "idade": 30,
+        "cidade_nascimento": "Salzburgo"
+      },
+      {
+        "nome": "Kevin Danso",
+        "time": "Lens",
+        "idade": 27,
+        "cidade_nascimento": "Voitsberg"
+      }
+    ]
+  },
+  {
+    "pais": "Egito",
+    "tecnico": "Hossam Hassan",
+    "jogadores": [
+      {
+        "nome": "Mohamed Salah",
+        "time": "Liverpool",
+        "idade": 33,
+        "cidade_nascimento": "Nagrig"
+      },
+      {
+        "nome": "Mohamed Elneny",
+        "time": "Al Jazira",
+        "idade": 33,
+        "cidade_nascimento": "El-Mahalla El-Kubra"
+      },
+      {
+        "nome": "Omar Marmoush",
+        "time": "Manchester City",
+        "idade": 27,
+        "cidade_nascimento": "Cairo"
+      },
+      {
+        "nome": "Mostafa Mohamed",
+        "time": "Nantes",
+        "idade": 28,
+        "cidade_nascimento": "Gizé"
+      },
+      {
+        "nome": "Trézéguet",
+        "time": "Trabzonspor",
+        "idade": 31,
+        "cidade_nascimento": "Kafr el-Sheikh"
+      },
+      {
+        "nome": "Ahmed Hegazi",
+        "time": "NEOM SC",
+        "idade": 35,
+        "cidade_nascimento": "Ismailia"
+      },
+      {
+        "nome": "Mohamed Abdelmonem",
+        "time": "Nice",
+        "idade": 27,
+        "cidade_nascimento": "Zagazig"
+      },
+      {
+        "nome": "Hamdy Fathy",
+        "time": "Al Wakrah",
+        "idade": 31,
+        "cidade_nascimento": "Banha"
+      },
+      {
+        "nome": "Zizo",
+        "time": "Zamalek",
+        "idade": 30,
+        "cidade_nascimento": "Minya"
+      },
+      {
+        "nome": "Mohamed El Shenawy",
+        "time": "Al Ahly",
+        "idade": 37,
+        "cidade_nascimento": "El Hamoul"
+      }
+    ]
+  },
+  {
+    "pais": "Nova Zelândia",
+    "tecnico": "Darren Bazeley",
+    "jogadores": [
+      {
+        "nome": "Chris Wood",
+        "time": "Nottingham Forest",
+        "idade": 34,
+        "cidade_nascimento": "Auckland"
+      },
+      {
+        "nome": "Winston Reid",
+        "time": "A confirmar",
+        "idade": 37,
+        "cidade_nascimento": "Auckland"
+      },
+      {
+        "nome": "Liberato Cacace",
+        "time": "Empoli",
+        "idade": 25,
+        "cidade_nascimento": "Wellington"
+      },
+      {
+        "nome": "Joe Bell",
+        "time": "Viking",
+        "idade": 27,
+        "cidade_nascimento": "Bristol"
+      },
+      {
+        "nome": "Sarpreet Singh",
+        "time": "Hansa Rostock",
+        "idade": 27,
+        "cidade_nascimento": "Auckland"
+      },
+      {
+        "nome": "Marko Stamenić",
+        "time": "Olympiacos",
+        "idade": 24,
+        "cidade_nascimento": "Wellington"
+      },
+      {
+        "nome": "Matthew Garbett",
+        "time": "NAC Breda",
+        "idade": 24,
+        "cidade_nascimento": "Londres"
+      },
+      {
+        "nome": "Max Crocombe",
+        "time": "Burton Albion",
+        "idade": 32,
+        "cidade_nascimento": "Auckland"
+      },
+      {
+        "nome": "Ben Waine",
+        "time": "Plymouth Argyle",
+        "idade": 24,
+        "cidade_nascimento": "Wellington"
+      },
+      {
+        "nome": "Nando Pijnaker",
+        "time": "Sligo Rovers",
+        "idade": 27,
+        "cidade_nascimento": "Brummen"
+      }
+    ]
+  },
+  {
+    "pais": "Alemanha",
+    "tecnico": "Julian Nagelsmann",
+    "jogadores": [
+      {
+        "nome": "Manuel Neuer",
+        "time": "Bayern Munich",
+        "idade": 40,
+        "cidade_nascimento": "Gelsenkirchen"
+      },
+      {
+        "nome": "Antonio Rüdiger",
+        "time": "Real Madrid",
+        "idade": 33,
+        "cidade_nascimento": "Berlim"
+      },
+      {
+        "nome": "Joshua Kimmich",
+        "time": "Bayern Munich",
+        "idade": 31,
+        "cidade_nascimento": "Rottweil"
+      },
+      {
+        "nome": "İlkay Gündoğan",
+        "time": "Manchester City",
+        "idade": 35,
+        "cidade_nascimento": "Gelsenkirchen"
+      },
+      {
+        "nome": "Jamal Musiala",
+        "time": "Bayern Munich",
+        "idade": 23,
+        "cidade_nascimento": "Stuttgart"
+      },
+      {
+        "nome": "Florian Wirtz",
+        "time": "Bayer Leverkusen",
+        "idade": 23,
+        "cidade_nascimento": "Pulheim"
+      },
+      {
+        "nome": "Kai Havertz",
+        "time": "Arsenal",
+        "idade": 26,
+        "cidade_nascimento": "Aachen"
+      },
+      {
+        "nome": "Leroy Sané",
+        "time": "Bayern Munich",
+        "idade": 30,
+        "cidade_nascimento": "Essen"
+      },
+      {
+        "nome": "Niclas Füllkrug",
+        "time": "West Ham United",
+        "idade": 33,
+        "cidade_nascimento": "Hannover"
+      },
+      {
+        "nome": "Marc-André ter Stegen",
+        "time": "Barcelona",
+        "idade": 34,
+        "cidade_nascimento": "Mönchengladbach"
+      }
+    ]
+  },
+  {
+    "pais": "Colômbia",
+    "tecnico": "Néstor Lorenzo",
+    "jogadores": [
+      {
+        "nome": "James Rodríguez",
+        "time": "León",
+        "idade": 34,
+        "cidade_nascimento": "Cúcuta"
+      },
+      {
+        "nome": "Luis Díaz",
+        "time": "Liverpool",
+        "idade": 29,
+        "cidade_nascimento": "Barrancas"
+      },
+      {
+        "nome": "Jhon Arias",
+        "time": "Fluminense",
+        "idade": 28,
+        "cidade_nascimento": "Quibdó"
+      },
+      {
+        "nome": "Jefferson Lerma",
+        "time": "Crystal Palace",
+        "idade": 31,
+        "cidade_nascimento": "El Cerrito"
+      },
+      {
+        "nome": "Davinson Sánchez",
+        "time": "Galatasaray",
+        "idade": 29,
+        "cidade_nascimento": "Caloto"
+      },
+      {
+        "nome": "Daniel Muñoz",
+        "time": "Crystal Palace",
+        "idade": 29,
+        "cidade_nascimento": "Amalfi"
+      },
+      {
+        "nome": "Jhon Durán",
+        "time": "Al Nassr",
+        "idade": 22,
+        "cidade_nascimento": "Medellín"
+      },
+      {
+        "nome": "Rafael Santos Borré",
+        "time": "Internacional",
+        "idade": 30,
+        "cidade_nascimento": "Barranquilla"
+      },
+      {
+        "nome": "Camilo Vargas",
+        "time": "Atlas",
+        "idade": 37,
+        "cidade_nascimento": "Bogotá"
+      },
+      {
+        "nome": "Yerry Mina",
+        "time": "Cagliari",
+        "idade": 31,
+        "cidade_nascimento": "Guachené"
+      }
+    ]
+  },
+  {
+    "pais": "Uzbequistão",
+    "tecnico": "Timur Kapadze",
+    "jogadores": [
+      {
+        "nome": "Eldor Shomurodov",
+        "time": "Roma",
+        "idade": 30,
+        "cidade_nascimento": "Jarkurgan"
+      },
+      {
+        "nome": "Abdukodir Khusanov",
+        "time": "Manchester City",
+        "idade": 22,
+        "cidade_nascimento": "Tashkent"
+      },
+      {
+        "nome": "Oston Urunov",
+        "time": "Persepolis",
+        "idade": 25,
+        "cidade_nascimento": "Navoi"
+      },
+      {
+        "nome": "Abbosbek Fayzullaev",
+        "time": "CSKA Moscow",
+        "idade": 22,
+        "cidade_nascimento": "Sirdaryo"
+      },
+      {
+        "nome": "Jaloliddin Masharipov",
+        "time": "Esteghlal",
+        "idade": 32,
+        "cidade_nascimento": "Urgench"
+      },
+      {
+        "nome": "Odiljon Hamrobekov",
+        "time": "Pakhtakor",
+        "idade": 30,
+        "cidade_nascimento": "Namangan"
+      },
+      {
+        "nome": "Utkir Yusupov",
+        "time": "Neftchi Fergana",
+        "idade": 35,
+        "cidade_nascimento": "Fergana"
+      },
+      {
+        "nome": "Khojiakbar Alijonov",
+        "time": "Pakhtakor",
+        "idade": 29,
+        "cidade_nascimento": "Tashkent"
+      },
+      {
+        "nome": "Rustamjon Ashurmatov",
+        "time": "Rubin Kazan",
+        "idade": 29,
+        "cidade_nascimento": "Kokand"
+      },
+      {
+        "nome": "Azizbek Turgunboev",
+        "time": "Sivasspor",
+        "idade": 31,
+        "cidade_nascimento": "Namangan"
+      }
+    ]
+  },
+  {
+    "pais": "República Democrática do Congo",
+    "tecnico": "Sébastien Desabre",
+    "jogadores": [
+      {
+        "nome": "Chancel Mbemba",
+        "time": "Marseille",
+        "idade": 31,
+        "cidade_nascimento": "Kinshasa"
+      },
+      {
+        "nome": "Yoane Wissa",
+        "time": "Brentford",
+        "idade": 29,
+        "cidade_nascimento": "Épinay-sous-Sénart"
+      },
+      {
+        "nome": "Cédric Bakambu",
+        "time": "Real Betis",
+        "idade": 35,
+        "cidade_nascimento": "Ivry-sur-Seine"
+      },
+      {
+        "nome": "Arthur Masuaku",
+        "time": "Beşiktaş",
+        "idade": 32,
+        "cidade_nascimento": "Lille"
+      },
+      {
+        "nome": "Samuel Moutoussamy",
+        "time": "Sivasspor",
+        "idade": 29,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Gaël Kakuta",
+        "time": "Esteghlal",
+        "idade": 34,
+        "cidade_nascimento": "Lille"
+      },
+      {
+        "nome": "Théo Bongonda",
+        "time": "Spartak Moscow",
+        "idade": 30,
+        "cidade_nascimento": "Charleroi"
+      },
+      {
+        "nome": "Silas Katompa Mvumpa",
+        "time": "Crvena Zvezda",
+        "idade": 27,
+        "cidade_nascimento": "Kinshasa"
+      },
+      {
+        "nome": "Lionel Mpasi",
+        "time": "Rodez",
+        "idade": 31,
+        "cidade_nascimento": "Meaux"
+      },
+      {
+        "nome": "Noah Sadiki",
+        "time": "Union Saint-Gilloise",
+        "idade": 21,
+        "cidade_nascimento": "Bruxelas"
+      }
+    ]
+  },
+  {
+    "pais": "Inglaterra",
+    "tecnico": "Thomas Tuchel",
+    "jogadores": [
+      {
+        "nome": "Jordan Pickford",
+        "time": "Everton",
+        "idade": 32,
+        "cidade_nascimento": "Washington"
+      },
+      {
+        "nome": "Kyle Walker",
+        "time": "AC Milan",
+        "idade": 36,
+        "cidade_nascimento": "Sheffield"
+      },
+      {
+        "nome": "John Stones",
+        "time": "Manchester City",
+        "idade": 31,
+        "cidade_nascimento": "Barnsley"
+      },
+      {
+        "nome": "Declan Rice",
+        "time": "Arsenal",
+        "idade": 27,
+        "cidade_nascimento": "Londres"
+      },
+      {
+        "nome": "Jude Bellingham",
+        "time": "Real Madrid",
+        "idade": 22,
+        "cidade_nascimento": "Stourbridge"
+      },
+      {
+        "nome": "Phil Foden",
+        "time": "Manchester City",
+        "idade": 25,
+        "cidade_nascimento": "Stockport"
+      },
+      {
+        "nome": "Bukayo Saka",
+        "time": "Arsenal",
+        "idade": 24,
+        "cidade_nascimento": "Londres"
+      },
+      {
+        "nome": "Harry Kane",
+        "time": "Bayern Munich",
+        "idade": 32,
+        "cidade_nascimento": "Londres"
+      },
+      {
+        "nome": "Cole Palmer",
+        "time": "Chelsea",
+        "idade": 24,
+        "cidade_nascimento": "Manchester"
+      },
+      {
+        "nome": "Trent Alexander-Arnold",
+        "time": "Real Madrid",
+        "idade": 27,
+        "cidade_nascimento": "Liverpool"
+      }
+    ]
+  },
+  {
+    "pais": "Croácia",
+    "tecnico": "Zlatko Dalić",
+    "jogadores": [
+      {
+        "nome": "Luka Modrić",
+        "time": "Real Madrid",
+        "idade": 40,
+        "cidade_nascimento": "Zadar"
+      },
+      {
+        "nome": "Mateo Kovačić",
+        "time": "Manchester City",
+        "idade": 31,
+        "cidade_nascimento": "Linz"
+      },
+      {
+        "nome": "Marcelo Brozović",
+        "time": "Al Nassr",
+        "idade": 33,
+        "cidade_nascimento": "Zagreb"
+      },
+      {
+        "nome": "Joško Gvardiol",
+        "time": "Manchester City",
+        "idade": 24,
+        "cidade_nascimento": "Zagreb"
+      },
+      {
+        "nome": "Andrej Kramarić",
+        "time": "Hoffenheim",
+        "idade": 34,
+        "cidade_nascimento": "Zagreb"
+      },
+      {
+        "nome": "Ivan Perišić",
+        "time": "PSV",
+        "idade": 37,
+        "cidade_nascimento": "Split"
+      },
+      {
+        "nome": "Dominik Livaković",
+        "time": "Fenerbahçe",
+        "idade": 31,
+        "cidade_nascimento": "Zadar"
+      },
+      {
+        "nome": "Bruno Petković",
+        "time": "Dinamo Zagreb",
+        "idade": 31,
+        "cidade_nascimento": "Metković"
+      },
+      {
+        "nome": "Lovro Majer",
+        "time": "Wolfsburg",
+        "idade": 28,
+        "cidade_nascimento": "Zagreb"
+      },
+      {
+        "nome": "Martin Baturina",
+        "time": "Dinamo Zagreb",
+        "idade": 23,
+        "cidade_nascimento": "Split"
+      }
+    ]
+  },
+  {
+    "pais": "Costa do Marfim",
+    "tecnico": "Emerse Faé",
+    "jogadores": [
+      {
+        "nome": "Yahia Fofana",
+        "time": "Angers",
+        "idade": 25,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Odilon Kossounou",
+        "time": "Atalanta",
+        "idade": 25,
+        "cidade_nascimento": "Abidjan"
+      },
+      {
+        "nome": "Evan Ndicka",
+        "time": "Roma",
+        "idade": 26,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Willy Boly",
+        "time": "Nottingham Forest",
+        "idade": 35,
+        "cidade_nascimento": "Melun"
+      },
+      {
+        "nome": "Franck Kessié",
+        "time": "Al Ahli",
+        "idade": 29,
+        "cidade_nascimento": "Ouragahio"
+      },
+      {
+        "nome": "Seko Fofana",
+        "time": "Rennes",
+        "idade": 31,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Ibrahim Sangaré",
+        "time": "Nottingham Forest",
+        "idade": 28,
+        "cidade_nascimento": "Koumassi"
+      },
+      {
+        "nome": "Simon Adingra",
+        "time": "Brighton",
+        "idade": 24,
+        "cidade_nascimento": "Yamoussoukro"
+      },
+      {
+        "nome": "Nicolas Pépé",
+        "time": "Villarreal",
+        "idade": 31,
+        "cidade_nascimento": "Mantes-la-Jolie"
+      },
+      {
+        "nome": "Sébastien Haller",
+        "time": "Utrecht",
+        "idade": 31,
+        "cidade_nascimento": "Ris-Orangis"
+      }
+    ]
+  },
+  {
+    "pais": "Japão",
+    "tecnico": "Hajime Moriyasu",
+    "jogadores": [
+      {
+        "nome": "Zion Suzuki",
+        "time": "Parma",
+        "idade": 23,
+        "cidade_nascimento": "Little Rock"
+      },
+      {
+        "nome": "Takehiro Tomiyasu",
+        "time": "Arsenal",
+        "idade": 27,
+        "cidade_nascimento": "Fukuoka"
+      },
+      {
+        "nome": "Wataru Endo",
+        "time": "Liverpool",
+        "idade": 33,
+        "cidade_nascimento": "Yokohama"
+      },
+      {
+        "nome": "Kaoru Mitoma",
+        "time": "Brighton",
+        "idade": 28,
+        "cidade_nascimento": "Kawasaki"
+      },
+      {
+        "nome": "Takefusa Kubo",
+        "time": "Real Sociedad",
+        "idade": 25,
+        "cidade_nascimento": "Kawasaki"
+      },
+      {
+        "nome": "Ritsu Doan",
+        "time": "Freiburg",
+        "idade": 28,
+        "cidade_nascimento": "Amagasaki"
+      },
+      {
+        "nome": "Daichi Kamada",
+        "time": "Crystal Palace",
+        "idade": 29,
+        "cidade_nascimento": "Ehime"
+      },
+      {
+        "nome": "Takumi Minamino",
+        "time": "Monaco",
+        "idade": 31,
+        "cidade_nascimento": "Izumisano"
+      },
+      {
+        "nome": "Ayase Ueda",
+        "time": "Feyenoord",
+        "idade": 27,
+        "cidade_nascimento": "Mito"
+      },
+      {
+        "nome": "Hidemasa Morita",
+        "time": "Sporting CP",
+        "idade": 31,
+        "cidade_nascimento": "Takatsuki"
+      }
+    ]
+  },
+  {
+    "pais": "Tunísia",
+    "tecnico": "Sami Trabelsi",
+    "jogadores": [
+      {
+        "nome": "Aymen Dahmen",
+        "time": "CS Sfaxien",
+        "idade": 29,
+        "cidade_nascimento": "Sfax"
+      },
+      {
+        "nome": "Montassar Talbi",
+        "time": "Lorient",
+        "idade": 28,
+        "cidade_nascimento": "Paris"
+      },
+      {
+        "nome": "Dylan Bronn",
+        "time": "Servette",
+        "idade": 30,
+        "cidade_nascimento": "Cannes"
+      },
+      {
+        "nome": "Ali Abdi",
+        "time": "Nice",
+        "idade": 32,
+        "cidade_nascimento": "Sfax"
+      },
+      {
+        "nome": "Ellyes Skhiri",
+        "time": "Eintracht Frankfurt",
+        "idade": 31,
+        "cidade_nascimento": "Lunel"
+      },
+      {
+        "nome": "Hannibal Mejbri",
+        "time": "Burnley",
+        "idade": 23,
+        "cidade_nascimento": "Ivry-sur-Seine"
+      },
+      {
+        "nome": "Anis Ben Slimane",
+        "time": "Sheffield United",
+        "idade": 25,
+        "cidade_nascimento": "Copenhague"
+      },
+      {
+        "nome": "Youssef Msakni",
+        "time": "Al Arabi",
+        "idade": 35,
+        "cidade_nascimento": "Tunis"
+      },
+      {
+        "nome": "Seifeddine Jaziri",
+        "time": "Zamalek",
+        "idade": 33,
+        "cidade_nascimento": "Tunis"
+      },
+      {
+        "nome": "Issam Jebali",
+        "time": "Gamba Osaka",
+        "idade": 34,
+        "cidade_nascimento": "Majaz al Bab"
+      }
+    ]
+  },
+  {
+    "pais": "Portugal",
+    "tecnico": "Roberto Martínez",
+    "jogadores": [
+      {
+        "nome": "Diogo Costa",
+        "time": "Porto",
+        "idade": 26,
+        "cidade_nascimento": "Rothrist"
+      },
+      {
+        "nome": "Rúben Dias",
+        "time": "Manchester City",
+        "idade": 29,
+        "cidade_nascimento": "Amadora"
+      },
+      {
+        "nome": "Nuno Mendes",
+        "time": "Paris Saint-Germain",
+        "idade": 23,
+        "cidade_nascimento": "Sintra"
+      },
+      {
+        "nome": "João Cancelo",
+        "time": "Al Hilal",
+        "idade": 32,
+        "cidade_nascimento": "Barreiro"
+      },
+      {
+        "nome": "Bruno Fernandes",
+        "time": "Manchester United",
+        "idade": 31,
+        "cidade_nascimento": "Maia"
+      },
+      {
+        "nome": "Bernardo Silva",
+        "time": "Manchester City",
+        "idade": 31,
+        "cidade_nascimento": "Lisboa"
+      },
+      {
+        "nome": "Vitinha",
+        "time": "Paris Saint-Germain",
+        "idade": 26,
+        "cidade_nascimento": "Santo Tirso"
+      },
+      {
+        "nome": "João Neves",
+        "time": "Paris Saint-Germain",
+        "idade": 21,
+        "cidade_nascimento": "Tavira"
+      },
+      {
+        "nome": "Rafael Leão",
+        "time": "AC Milan",
+        "idade": 26,
+        "cidade_nascimento": "Almada"
+      },
+      {
+        "nome": "Cristiano Ronaldo",
+        "time": "Al Nassr",
+        "idade": 41,
+        "cidade_nascimento": "Funchal"
+      }
+    ]
+  },
+  {
+    "pais": "Curaçao",
+    "tecnico": "Dick Advocaat",
+    "jogadores": [
+      {
+        "nome": "Eloy Room",
+        "time": "Vitesse",
+        "idade": 37,
+        "cidade_nascimento": "Nijmegen"
+      },
+      {
+        "nome": "Cuco Martina",
+        "time": "NAC Breda",
+        "idade": 36,
+        "cidade_nascimento": "Roterdã"
+      },
+      {
+        "nome": "Juninho Bacuna",
+        "time": "Birmingham City",
+        "idade": 28,
+        "cidade_nascimento": "Groningen"
+      },
+      {
+        "nome": "Leandro Bacuna",
+        "time": "A confirmar",
+        "idade": 34,
+        "cidade_nascimento": "Groningen"
+      },
+      {
+        "nome": "Kenji Gorré",
+        "time": "A confirmar",
+        "idade": 31,
+        "cidade_nascimento": "Spijkenisse"
+      },
+      {
+        "nome": "Rangelo Janga",
+        "time": "Nea Salamina",
+        "idade": 33,
+        "cidade_nascimento": "Roterdã"
+      },
+      {
+        "nome": "Brandley Kuwas",
+        "time": "Giresunspor",
+        "idade": 33,
+        "cidade_nascimento": "Hoorn"
+      },
+      {
+        "nome": "Juriën Gaari",
+        "time": "RKC Waalwijk",
+        "idade": 32,
+        "cidade_nascimento": "Kerkrade"
+      },
+      {
+        "nome": "Vurnon Anita",
+        "time": "A confirmar",
+        "idade": 37,
+        "cidade_nascimento": "Willemstad"
+      },
+      {
+        "nome": "Jearl Margaritha",
+        "time": "A confirmar",
+        "idade": 25,
+        "cidade_nascimento": "Groningen"
+      }
+    ]
+  },
+  {
+    "pais": "Bélgica",
+    "tecnico": "Rudi Garcia",
+    "jogadores": [
+      {
+        "nome": "Thibaut Courtois",
+        "time": "Real Madrid",
+        "idade": 34,
+        "cidade_nascimento": "Bree"
+      },
+      {
+        "nome": "Koen Casteels",
+        "time": "Al Qadsiah",
+        "idade": 33,
+        "cidade_nascimento": "Bonheiden"
+      },
+      {
+        "nome": "Jan Vertonghen",
+        "time": "Anderlecht",
+        "idade": 39,
+        "cidade_nascimento": "Sint-Niklaas"
+      },
+      {
+        "nome": "Wout Faes",
+        "time": "Leicester City",
+        "idade": 28,
+        "cidade_nascimento": "Mol"
+      },
+      {
+        "nome": "Youri Tielemans",
+        "time": "Aston Villa",
+        "idade": 29,
+        "cidade_nascimento": "Sint-Pieters-Leeuw"
+      },
+      {
+        "nome": "Kevin De Bruyne",
+        "time": "Manchester City",
+        "idade": 34,
+        "cidade_nascimento": "Drongen"
+      },
+      {
+        "nome": "Amadou Onana",
+        "time": "Aston Villa",
+        "idade": 24,
+        "cidade_nascimento": "Dakar"
+      },
+      {
+        "nome": "Jérémy Doku",
+        "time": "Manchester City",
+        "idade": 23,
+        "cidade_nascimento": "Antuérpia"
+      },
+      {
+        "nome": "Romelu Lukaku",
+        "time": "Napoli",
+        "idade": 33,
+        "cidade_nascimento": "Antuérpia"
+      },
+      {
+        "nome": "Leandro Trossard",
+        "time": "Arsenal",
+        "idade": 31,
+        "cidade_nascimento": "Maasmechelen"
+      }
+    ]
+  },
+  {
+    "pais": "Argélia",
+    "tecnico": "Vladimir Petković",
+    "jogadores": [
+      {
+        "nome": "Riyad Mahrez",
+        "time": "Al Ahli",
+        "idade": 35,
+        "cidade_nascimento": "Sarcelles"
+      },
+      {
+        "nome": "Ismaël Bennacer",
+        "time": "Marseille",
+        "idade": 28,
+        "cidade_nascimento": "Arles"
+      },
+      {
+        "nome": "Houssem Aouar",
+        "time": "Al Ittihad",
+        "idade": 27,
+        "cidade_nascimento": "Lyon"
+      },
+      {
+        "nome": "Youcef Atal",
+        "time": "Al Sadd",
+        "idade": 29,
+        "cidade_nascimento": "Bogni"
+      },
+      {
+        "nome": "Ramy Bensebaini",
+        "time": "Borussia Dortmund",
+        "idade": 30,
+        "cidade_nascimento": "Constantina"
+      },
+      {
+        "nome": "Aïssa Mandi",
+        "time": "Lille",
+        "idade": 34,
+        "cidade_nascimento": "Châlons-en-Champagne"
+      },
+      {
+        "nome": "Nabil Bentaleb",
+        "time": "Lille",
+        "idade": 31,
+        "cidade_nascimento": "Lille"
+      },
+      {
+        "nome": "Amine Gouiri",
+        "time": "Marseille",
+        "idade": 26,
+        "cidade_nascimento": "Bourgoin-Jallieu"
+      },
+      {
+        "nome": "Said Benrahma",
+        "time": "Neom SC",
+        "idade": 30,
+        "cidade_nascimento": "Aïn Témouchent"
+      },
+      {
+        "nome": "Anthony Mandrea",
+        "time": "Caen",
+        "idade": 29,
+        "cidade_nascimento": "Grasse"
+      }
+    ]
+  },
+  {
+    "pais": "Gana",
+    "tecnico": "Otto Addo",
+    "jogadores": [
+      {
+        "nome": "Thomas Partey",
+        "time": "Arsenal",
+        "idade": 32,
+        "cidade_nascimento": "Odumase Krobo"
+      },
+      {
+        "nome": "Mohammed Kudus",
+        "time": "West Ham United",
+        "idade": 25,
+        "cidade_nascimento": "Accra"
+      },
+      {
+        "nome": "Jordan Ayew",
+        "time": "Leicester City",
+        "idade": 34,
+        "cidade_nascimento": "Marselha"
+      },
+      {
+        "nome": "Iñaki Williams",
+        "time": "Athletic Club",
+        "idade": 31,
+        "cidade_nascimento": "Bilbao"
+      },
+      {
+        "nome": "Antoine Semenyo",
+        "time": "Bournemouth",
+        "idade": 26,
+        "cidade_nascimento": "Londres"
+      },
+      {
+        "nome": "Alexander Djiku",
+        "time": "Fenerbahçe",
+        "idade": 31,
+        "cidade_nascimento": "Montpellier"
+      },
+      {
+        "nome": "Daniel Amartey",
+        "time": "Beşiktaş",
+        "idade": 31,
+        "cidade_nascimento": "Accra"
+      },
+      {
+        "nome": "Joseph Paintsil",
+        "time": "LA Galaxy",
+        "idade": 28,
+        "cidade_nascimento": "Accra"
+      },
+      {
+        "nome": "Gideon Mensah",
+        "time": "Auxerre",
+        "idade": 27,
+        "cidade_nascimento": "Accra"
+      },
+      {
+        "nome": "Lawrence Ati-Zigi",
+        "time": "St. Gallen",
+        "idade": 29,
+        "cidade_nascimento": "Tamale"
+      }
+    ]
+  },
+  {
+    "pais": "Holanda",
+    "tecnico": "Ronald Koeman",
+    "jogadores": [
+      {
+        "nome": "Bart Verbruggen",
+        "time": "Brighton",
+        "idade": 23,
+        "cidade_nascimento": "Zwolle"
+      },
+      {
+        "nome": "Virgil van Dijk",
+        "time": "Liverpool",
+        "idade": 34,
+        "cidade_nascimento": "Breda"
+      },
+      {
+        "nome": "Matthijs de Ligt",
+        "time": "Manchester United",
+        "idade": 26,
+        "cidade_nascimento": "Leiderdorp"
+      },
+      {
+        "nome": "Denzel Dumfries",
+        "time": "Inter Milan",
+        "idade": 30,
+        "cidade_nascimento": "Roterdã"
+      },
+      {
+        "nome": "Frenkie de Jong",
+        "time": "Barcelona",
+        "idade": 29,
+        "cidade_nascimento": "Gorinchem"
+      },
+      {
+        "nome": "Tijjani Reijnders",
+        "time": "AC Milan",
+        "idade": 27,
+        "cidade_nascimento": "Zwolle"
+      },
+      {
+        "nome": "Xavi Simons",
+        "time": "RB Leipzig",
+        "idade": 23,
+        "cidade_nascimento": "Amsterdã"
+      },
+      {
+        "nome": "Cody Gakpo",
+        "time": "Liverpool",
+        "idade": 27,
+        "cidade_nascimento": "Eindhoven"
+      },
+      {
+        "nome": "Memphis Depay",
+        "time": "Corinthians",
+        "idade": 32,
+        "cidade_nascimento": "Moordrecht"
+      },
+      {
+        "nome": "Joshua Zirkzee",
+        "time": "Manchester United",
+        "idade": 25,
+        "cidade_nascimento": "Schiedam"
+      }
+    ]
+  },
+  {
+    "pais": "Equador",
+    "tecnico": "Sebastián Beccacece",
+    "jogadores": [
+      {
+        "nome": "Moisés Caicedo",
+        "time": "Chelsea",
+        "idade": 24,
+        "cidade_nascimento": "Santo Domingo"
+      },
+      {
+        "nome": "Piero Hincapié",
+        "time": "Bayer Leverkusen",
+        "idade": 24,
+        "cidade_nascimento": "Esmeraldas"
+      },
+      {
+        "nome": "Willian Pacho",
+        "time": "Paris Saint-Germain",
+        "idade": 24,
+        "cidade_nascimento": "Quinindé"
+      },
+      {
+        "nome": "Pervis Estupiñán",
+        "time": "Brighton",
+        "idade": 28,
+        "cidade_nascimento": "Esmeraldas"
+      },
+      {
+        "nome": "Enner Valencia",
+        "time": "Internacional",
+        "idade": 36,
+        "cidade_nascimento": "San Lorenzo"
+      },
+      {
+        "nome": "Kendry Páez",
+        "time": "Independiente del Valle",
+        "idade": 19,
+        "cidade_nascimento": "Guayaquil"
+      },
+      {
+        "nome": "Gonzalo Plata",
+        "time": "Flamengo",
+        "idade": 25,
+        "cidade_nascimento": "Guayaquil"
+      },
+      {
+        "nome": "Alan Franco",
+        "time": "Atlético Mineiro",
+        "idade": 27,
+        "cidade_nascimento": "Jujan"
+      },
+      {
+        "nome": "Félix Torres",
+        "time": "Corinthians",
+        "idade": 29,
+        "cidade_nascimento": "San Lorenzo"
+      },
+      {
+        "nome": "Hernán Galíndez",
+        "time": "Huracán",
+        "idade": 39,
+        "cidade_nascimento": "Rosário"
+      }
+    ]
+  },
+  {
+    "pais": "Suécia",
+    "tecnico": "Jon Dahl Tomasson",
+    "jogadores": [
+      {
+        "nome": "Viktor Gyökeres",
+        "time": "Sporting CP",
+        "idade": 27,
+        "cidade_nascimento": "Estocolmo"
+      },
+      {
+        "nome": "Alexander Isak",
+        "time": "Newcastle United",
+        "idade": 26,
+        "cidade_nascimento": "Solna"
+      },
+      {
+        "nome": "Dejan Kulusevski",
+        "time": "Tottenham Hotspur",
+        "idade": 26,
+        "cidade_nascimento": "Estocolmo"
+      },
+      {
+        "nome": "Anthony Elanga",
+        "time": "Nottingham Forest",
+        "idade": 24,
+        "cidade_nascimento": "Malmö"
+      },
+      {
+        "nome": "Emil Forsberg",
+        "time": "New York Red Bulls",
+        "idade": 34,
+        "cidade_nascimento": "Sundsvall"
+      },
+      {
+        "nome": "Victor Lindelöf",
+        "time": "Manchester United",
+        "idade": 31,
+        "cidade_nascimento": "Västerås"
+      },
+      {
+        "nome": "Ludwig Augustinsson",
+        "time": "Anderlecht",
+        "idade": 32,
+        "cidade_nascimento": "Estocolmo"
+      },
+      {
+        "nome": "Robin Olsen",
+        "time": "Aston Villa",
+        "idade": 36,
+        "cidade_nascimento": "Malmö"
+      },
+      {
+        "nome": "Jens Cajuste",
+        "time": "Ipswich Town",
+        "idade": 26,
+        "cidade_nascimento": "Gotemburgo"
+      },
+      {
+        "nome": "Yasin Ayari",
+        "time": "Brighton",
+        "idade": 22,
+        "cidade_nascimento": "Solna"
+      }
+    ]
+  },
+  {
+    "pais": "Irã",
+    "tecnico": "Amir Ghalenoei",
+    "jogadores": [
+      {
+        "nome": "Mehdi Taremi",
+        "time": "Inter Milan",
+        "idade": 33,
+        "cidade_nascimento": "Bushehr"
+      },
+      {
+        "nome": "Sardar Azmoun",
+        "time": "Shabab Al Ahli",
+        "idade": 31,
+        "cidade_nascimento": "Gonbad-e Qabus"
+      },
+      {
+        "nome": "Alireza Jahanbakhsh",
+        "time": "Heerenveen",
+        "idade": 32,
+        "cidade_nascimento": "Jirandeh"
+      },
+      {
+        "nome": "Saman Ghoddos",
+        "time": "A confirmar",
+        "idade": 32,
+        "cidade_nascimento": "Malmö"
+      },
+      {
+        "nome": "Saeid Ezatolahi",
+        "time": "Shabab Al Ahli",
+        "idade": 29,
+        "cidade_nascimento": "Bandar-e Anzali"
+      },
+      {
+        "nome": "Hossein Hosseini",
+        "time": "Esteghlal",
+        "idade": 33,
+        "cidade_nascimento": "Shiraz"
+      },
+      {
+        "nome": "Morteza Pouraliganji",
+        "time": "Persepolis",
+        "idade": 34,
+        "cidade_nascimento": "Babol"
+      },
+      {
+        "nome": "Milad Mohammadi",
+        "time": "Persepolis",
+        "idade": 32,
+        "cidade_nascimento": "Teerã"
+      },
+      {
+        "nome": "Ali Gholizadeh",
+        "time": "Lech Poznań",
+        "idade": 30,
+        "cidade_nascimento": "Namin"
+      },
+      {
+        "nome": "Mehdi Ghayedi",
+        "time": "Ittihad Kalba",
+        "idade": 27,
+        "cidade_nascimento": "Bushehr"
+      }
+    ]
+  },
+  {
+    "pais": "Jordânia",
+    "tecnico": "Jamal Sellami",
+    "jogadores": [
+      {
+        "nome": "Mousa Al-Taamari",
+        "time": "Montpellier",
+        "idade": 28,
+        "cidade_nascimento": "Amã"
+      },
+      {
+        "nome": "Yazan Al-Naimat",
+        "time": "Al Ahli",
+        "idade": 27,
+        "cidade_nascimento": "Amã"
+      },
+      {
+        "nome": "Nizar Al-Rashdan",
+        "time": "Emirates Club",
+        "idade": 27,
+        "cidade_nascimento": "Irbid"
+      },
+      {
+        "nome": "Yazeed Abulaila",
+        "time": "Al-Jabalain",
+        "idade": 33,
+        "cidade_nascimento": "Amã"
+      },
+      {
+        "nome": "Ali Olwan",
+        "time": "Al-Shamal",
+        "idade": 26,
+        "cidade_nascimento": "Amã"
+      },
+      {
+        "nome": "Ibrahim Sadeh",
+        "time": "Al-Hussein",
+        "idade": 26,
+        "cidade_nascimento": "Amã"
+      },
+      {
+        "nome": "Anas Bani Yaseen",
+        "time": "Al-Faisaly",
+        "idade": 37,
+        "cidade_nascimento": "Irbid"
+      },
+      {
+        "nome": "Ehsan Haddad",
+        "time": "Al-Faisaly",
+        "idade": 32,
+        "cidade_nascimento": "Irbid"
+      },
+      {
+        "nome": "Noor Al-Rawabdeh",
+        "time": "Selangor",
+        "idade": 29,
+        "cidade_nascimento": "Irbid"
+      },
+      {
+        "nome": "Mahmoud Mardi",
+        "time": "Al-Hussein",
+        "idade": 32,
+        "cidade_nascimento": "Aqaba"
+      }
+    ]
+  },
+  {
+    "pais": "Panamá",
+    "tecnico": "Thomas Christiansen",
+    "jogadores": [
+      {
+        "nome": "Luis Mejía",
+        "time": "Nacional",
+        "idade": 35,
+        "cidade_nascimento": "Cidade do Panamá"
+      },
+      {
+        "nome": "Michael Murillo",
+        "time": "Marseille",
+        "idade": 30,
+        "cidade_nascimento": "Cidade do Panamá"
+      },
+      {
+        "nome": "Fidel Escobar",
+        "time": "Saprissa",
+        "idade": 31,
+        "cidade_nascimento": "Cidade do Panamá"
+      },
+      {
+        "nome": "Andrés Andrade",
+        "time": "LASK",
+        "idade": 27,
+        "cidade_nascimento": "Cidade do Panamá"
+      },
+      {
+        "nome": "Adalberto Carrasquilla",
+        "time": "Pumas UNAM",
+        "idade": 27,
+        "cidade_nascimento": "Cidade do Panamá"
+      },
+      {
+        "nome": "Édgar Bárcenas",
+        "time": "Mazatlán",
+        "idade": 32,
+        "cidade_nascimento": "Colón"
+      },
+      {
+        "nome": "Aníbal Godoy",
+        "time": "Nashville SC",
+        "idade": 36,
+        "cidade_nascimento": "Cidade do Panamá"
+      },
+      {
+        "nome": "José Fajardo",
+        "time": "Universidad Católica",
+        "idade": 32,
+        "cidade_nascimento": "Colón"
+      },
+      {
+        "nome": "César Blackman",
+        "time": "Slovan Bratislava",
+        "idade": 27,
+        "cidade_nascimento": "Cidade do Panamá"
+      },
+      {
+        "nome": "Ismael Díaz",
+        "time": "Universidad Católica",
+        "idade": 29,
+        "cidade_nascimento": "Cidade do Panamá"
+      }
+    ]
+  }
+]
