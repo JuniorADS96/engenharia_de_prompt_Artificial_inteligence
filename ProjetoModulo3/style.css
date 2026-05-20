@@ -1,260 +1,669 @@
-/* Remove espaçamentos padrão da página */
-html, body {
-  margin: 0;
-  padding: 0;
+/*
+=================================================
+RESET GERAL
 
-  /* Define altura mínima ocupando toda a tela */
-  min-height: 100%;
+Remove espaços padrão do navegador.
+Isso ajuda o layout ficar mais controlado.
+=================================================
+*/
 
-  /* Impede rolagem horizontal */
-  overflow-x: hidden;
-
-  /* Mantém rolagem normal do navegador */
-  overflow-y: auto;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-/* Configurações gerais do corpo do site */
+
+
+/*
+=================================================
+CONFIGURAÇÕES DA PÁGINA
+=================================================
+*/
+
+html,
 body {
-
-  /* Fonte padrão do texto */
-  font-family: Arial, sans-serif;
-
-  /* Adiciona um efeito escuro + imagem de fundo */
-  background:
-    linear-gradient(rgba(7,17,31,0.75), rgba(7,17,31,0.85)),
-    url("https://i.postimg.cc/wvMtbK1T/Chat-GPT-Image-19-de-mai-de-2026-22-42-28.png");
-
-  /* Faz a imagem ocupar toda a tela */
-  background-size: cover;
-
-  /* Centraliza a imagem */
-  background-position: center;
-
-  /* Evita repetição da imagem */
-  background-repeat: no-repeat;
-
-  /* Mantém a imagem fixa ao rolar a página */
-  background-attachment: fixed;
-
-  /* Cor padrão do texto */
-  color: white;
+    min-height: 100%;
+    overflow-x: hidden;
 }
 
-/* Configura o menu lateral */
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+    /*
+    Fundo do site:
+    - imagem da Copa
+    - camada escura por cima para o texto aparecer melhor
+    */
+    background:
+        linear-gradient(
+            rgba(7, 17, 31, 0.78),
+            rgba(7, 17, 31, 0.88)
+        ),
+        url("https://i.postimg.cc/wvMtbK1T/Chat-GPT-Image-19-de-mai-de-2026-22-42-28.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+/*
+=================================================
+TEMA CLARO
+
+Quando o JavaScript colocar a classe "tema-claro"
+no body, o site muda de aparência.
+=================================================
+*/
+
+body.tema-claro {
+    color: #07111f;
+
+    background:
+        linear-gradient(
+            rgba(255, 255, 255, 0.82),
+            rgba(255, 255, 255, 0.90)
+        ),
+        url("https://i.postimg.cc/wvMtbK1T/Chat-GPT-Image-19-de-mai-de-2026-22-42-28.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+/*
+=================================================
+MENU LATERAL
+
+Fica do lado esquerdo.
+Aqui aparecem pesquisa, filtro e lista de seleções.
+=================================================
+*/
+
 #menuLateral {
+    width: 280px;
+    min-height: 100vh;
+    padding: 20px;
 
-  /* Largura do menu */
-  width: 260px;
+    background: rgba(8, 18, 38, 0.94);
 
-  /* Espaço interno */
-  padding: 20px;
-
-  /* Fundo com transparência */
-  background: rgba(8,18,38,0.92);
-
-  /* Define posição fixa na lateral */
-  position: absolute;
-  left: 0;
-  top: 0;
-
-  /* Remove barra de rolagem do menu */
-  overflow: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
-/* Área principal do conteúdo */
-.container {
 
-  /* Espaço para não ficar em cima do menu */
-  margin-left: 280px;
 
-  /* Calcula largura automaticamente */
-  width: calc(100% - 280px);
-
-  /* Altura mínima da tela */
-  min-height: 100vh;
-
-  /* Espaçamento interno */
-  padding: 40px;
-
-  /* Centraliza texto */
-  text-align: center;
+body.tema-claro #menuLateral {
+    background: rgba(255, 255, 255, 0.88);
 }
 
-/* Lista dos países */
+
+
+#menuLateral h2 {
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+
+
+/*
+=================================================
+CAMPO DE PESQUISA
+
+Campo para procurar seleção pelo nome.
+=================================================
+*/
+
+.campo-pesquisa {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    background: rgba(255, 255, 255, 0.12);
+
+    padding: 8px;
+    border-radius: 12px;
+    margin-bottom: 14px;
+}
+
+
+
+body.tema-claro .campo-pesquisa {
+    background: rgba(0, 0, 0, 0.08);
+}
+
+
+
+.campo-pesquisa input {
+    width: 100%;
+    border: none;
+    outline: none;
+
+    padding: 10px;
+    border-radius: 9px;
+
+    font-size: 15px;
+}
+
+
+
+/*
+=================================================
+FILTRO POR CONTINENTE
+=================================================
+*/
+
+#filtroContinente {
+    width: 100%;
+
+    padding: 12px;
+    margin-bottom: 14px;
+
+    border: none;
+    border-radius: 10px;
+
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+
+/*
+=================================================
+BOTÃO DE TEMA
+=================================================
+*/
+
+#botaoTema {
+    width: 100%;
+
+    padding: 12px;
+    margin-bottom: 18px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: #ffd166;
+    color: #07111f;
+
+    font-weight: bold;
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+
+
+#botaoTema:hover {
+    filter: brightness(1.08);
+}
+
+
+
+/*
+=================================================
+LISTA DE SELEÇÕES
+
+Os botões são criados pelo JavaScript.
+=================================================
+*/
+
 #listaPaises {
-
-  /* Organiza em coluna */
-  display: flex;
-  flex-direction: column;
-
-  /* Espaço entre elementos */
-  gap: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
-/* Estilo dos botões das seleções */
+
+
 .botao-pais {
+    width: 100%;
 
-  /* Espaçamento interno */
-  padding: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 
-  /* Remove borda padrão */
-  border: none;
+    padding: 12px;
 
-  /* Arredonda cantos */
-  border-radius: 10px;
+    border: none;
+    border-radius: 12px;
 
-  /* Cor do botão */
-  background: #00b4d8;
+    background: #00b4d8;
+    color: white;
 
-  /* Cor do texto */
-  color: white;
+    font-weight: bold;
+    text-align: left;
 
-  /* Deixa texto em negrito */
-  font-weight: bold;
-
-  /* Muda cursor para mãozinha */
-  cursor: pointer;
+    cursor: pointer;
+    transition: 0.3s;
 }
 
-/* Esconde o select */
-select {
-  display: none;
-}
 
-/* Configuração geral do container */
-.container {
 
-  /* Limita largura máxima */
-  width: 90%;
-  max-width: 1100px;
-
-  /* Centraliza na tela */
-  margin: auto;
-
-  /* Espaçamento */
-  padding: 40px 0;
-
-  text-align: center;
-}
-
-/* Título principal */
-h1 {
-
-  /* Tamanho da fonte */
-  font-size: 42px;
-
-  /* Espaço abaixo */
-  margin-bottom: 10px;
-}
-
-/* Texto padrão */
-p {
-  margin-bottom: 20px;
-}
-
-/* Área dos cards e menu */
-#menu,
-.card-selecao {
-
-  /* Fundo transparente */
-  background: rgba(255,255,255,0.08);
-
-  /* Espaçamento interno */
-  padding: 25px;
-
-  /* Bordas arredondadas */
-  border-radius: 18px;
-
-  margin-top: 30px;
-}
-
-/* Configurações do select */
-select {
-
-  width: 100%;
-
-  padding: 12px;
-
-  margin: 20px 0;
-
-  border-radius: 10px;
-
-  font-size: 16px;
-}
-
-/* Lista dos países em formato de grade */
-#listaPaises {
-
-  display: grid;
-
-  /* Cria colunas automáticas */
-  grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
-
-  gap: 12px;
-}
-
-/* Botão das seleções */
-.botao-pais {
-
-  padding: 12px;
-  border: none;
-  border-radius: 10px;
-  background: #00b4d8;
-  color: white;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-/* Efeito ao passar o mouse */
 .botao-pais:hover {
-  background: #0077b6;
+    background: #0077b6;
+    transform: scale(1.03);
 }
 
-/* Botão voltar */
+
+
+body.tema-claro .botao-pais {
+    color: white;
+}
+
+
+
+/*
+=================================================
+BANDEIRA PEQUENA NO MENU
+
+Imagem pequena que aparece ao lado do nome do país.
+=================================================
+*/
+
+.bandeira-menu {
+    width: 28px;
+    height: 20px;
+
+    object-fit: cover;
+    border-radius: 4px;
+
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+}
+
+
+
+/*
+=================================================
+CONTEÚDO PRINCIPAL
+
+Fica à direita do menu lateral.
+=================================================
+*/
+
+.container {
+    margin-left: 300px;
+    width: calc(100% - 300px);
+
+    min-height: 100vh;
+    padding: 40px;
+
+    text-align: center;
+}
+
+
+
+/*
+=================================================
+TELA INICIAL
+=================================================
+*/
+
+.tela-inicial {
+    padding: 30px 20px;
+    margin-bottom: 30px;
+}
+
+
+
+.tela-inicial h1 {
+    font-size: clamp(2.2rem, 5vw, 4rem);
+    margin-bottom: 15px;
+}
+
+
+
+.tela-inicial p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+
+
+/*
+=================================================
+BOTÃO PRINCIPAL
+=================================================
+*/
+
+.botao-principal,
+#botaoGrupos {
+    padding: 13px 24px;
+
+    border: none;
+    border-radius: 12px;
+
+    background: #00b4d8;
+    color: white;
+
+    font-weight: bold;
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+
+
+.botao-principal:hover,
+#botaoGrupos:hover {
+    background: #0077b6;
+    transform: translateY(-2px);
+}
+
+
+
+/*
+=================================================
+PAINÉIS
+
+Caixas onde aparecem:
+- detalhes da seleção
+- tabela de grupos
+=================================================
+*/
+
+.painel {
+    background: rgba(255, 255, 255, 0.09);
+
+    padding: 25px;
+    border-radius: 20px;
+
+    margin-top: 25px;
+
+    border: 1px solid rgba(255, 255, 255, 0.15);
+
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+}
+
+
+
+body.tema-claro .painel {
+    background: rgba(255, 255, 255, 0.82);
+    border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+
+
+/*
+=================================================
+CARD DA SELEÇÃO
+
+Aparece quando você clica em uma seleção.
+=================================================
+*/
+
+.card-selecao {
+    animation: aparecerCard 0.5s ease;
+}
+
+
+
+@keyframes aparecerCard {
+    from {
+        opacity: 0;
+        transform: translateY(18px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+
+/*
+=================================================
+BANDEIRA GRANDE DO CARD
+
+Aparece acima do nome da seleção.
+=================================================
+*/
+
+.imagem-bandeira {
+    width: 120px;
+    height: auto;
+
+    display: block;
+    margin: 15px auto 20px auto;
+
+    border-radius: 10px;
+    object-fit: cover;
+
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.35);
+
+    animation: aparecerBandeira 0.5s ease;
+}
+
+
+
+@keyframes aparecerBandeira {
+    from {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+
+
+/*
+=================================================
+BOTÃO VOLTAR
+=================================================
+*/
+
 .botao-voltar {
+    padding: 10px 18px;
+    margin-bottom: 18px;
 
-  padding: 10px 18px;
-  border: none;
-  border-radius: 10px;
+    border: none;
+    border-radius: 10px;
 
-  background: #ffd166;
+    background: #ffd166;
+    color: #07111f;
 
-  cursor: pointer;
-
-  font-weight: bold;
-
-  margin-bottom: 20px;
+    font-weight: bold;
+    cursor: pointer;
 }
 
-/* Área dos jogadores */
+
+
+/*
+=================================================
+BOTÃO FAVORITO
+
+Permite marcar uma seleção como favorita.
+=================================================
+*/
+
+.botao-favorito {
+    padding: 10px 18px;
+    margin-left: 10px;
+    margin-bottom: 18px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: #ef476f;
+    color: white;
+
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+/*
+=================================================
+JOGADORES
+
+Cards dos jogadores da seleção.
+=================================================
+*/
+
 .jogadores {
+    display: grid;
 
-  display: grid;
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(220px, 1fr)
+    );
 
-  /* Organiza cards automaticamente */
-  grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
-
-  gap: 15px;
-
-  margin-top: 20px;
+    gap: 15px;
+    margin-top: 22px;
 }
 
-/* Card individual do jogador */
+
+
 .card-jogador {
+    background: rgba(255, 255, 255, 0.12);
 
-  background: rgba(255,255,255,0.12);
+    padding: 15px;
+    border-radius: 15px;
 
-  padding: 15px;
+    text-align: left;
 
-  border-radius: 14px;
-
-  text-align: left;
+    transition: 0.3s;
 }
 
-/* Nome do jogador */
+
+
+.card-jogador:hover {
+    transform: translateY(-4px);
+}
+
+
+
+body.tema-claro .card-jogador {
+    background: rgba(0, 0, 0, 0.08);
+}
+
+
+
 .card-jogador h3 {
+    color: #90e0ef;
+    margin-bottom: 10px;
+}
 
-  margin-bottom: 10px;
 
-  color: #90e0ef;
+
+body.tema-claro .card-jogador h3 {
+    color: #0077b6;
+}
+
+
+
+/*
+=================================================
+TABELA DE GRUPOS
+
+Começa escondida.
+O botão abre e fecha.
+=================================================
+*/
+
+.tabela-escondida {
+    display: none;
+}
+
+
+
+.tabela-visivel {
+    display: block;
+}
+
+
+
+.grupos {
+    display: grid;
+
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(230px, 1fr)
+    );
+
+    gap: 16px;
+    margin-top: 20px;
+}
+
+
+
+.grupo {
+    background: rgba(255, 255, 255, 0.11);
+
+    padding: 15px;
+    border-radius: 15px;
+
+    text-align: left;
+}
+
+
+
+body.tema-claro .grupo {
+    background: rgba(0, 0, 0, 0.08);
+}
+
+
+
+.grupo h3 {
+    color: #ffd166;
+    margin-bottom: 10px;
+}
+
+
+
+body.tema-claro .grupo h3 {
+    color: #0077b6;
+}
+
+
+
+.grupo p {
+    margin: 6px 0;
+}
+
+
+
+/*
+=================================================
+RESPONSIVIDADE
+
+Ajusta o site no celular.
+=================================================
+*/
+
+@media (max-width: 800px) {
+
+    #menuLateral {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+    }
+
+    .container {
+        margin-left: 0;
+        width: 100%;
+        padding: 25px;
+    }
+
+    .botao-favorito {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
 }
