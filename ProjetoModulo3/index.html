@@ -1,50 +1,129 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
 
-  <!-- Define o padrão de caracteres (permite acentos e símbolos) -->
-  <meta charset="UTF-8">
+    <!-- Permite usar acentos normalmente -->
+    <meta charset="UTF-8">
 
-  <!-- Faz o site se adaptar a celular e diferentes telas -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Faz o site funcionar melhor no celular -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Nome que aparece na aba do navegador -->
-  <title>Copa 2026</title>
+    <!-- Nome que aparece na aba do navegador -->
+    <title>Copa do Mundo 2026</title>
 
-  <!-- Importa o arquivo CSS para estilizar o site -->
-  <link rel="stylesheet" href="style.css">
+    <!-- Liga o arquivo CSS ao HTML -->
+    <link rel="stylesheet" href="style.css">
 
 </head>
 
 <body>
 
-  <!-- Menu lateral que irá mostrar a lista das seleções -->
-  <aside id="menuLateral">
+    <!--
+    MENU LATERAL
 
-    <!-- Título do menu -->
-    <h2>Seleções</h2>
+    Aqui ficam:
+    - pesquisa
+    - filtro por continente
+    - botão de tema
+    - lista das seleções
+    -->
+    <aside id="menuLateral">
 
-    <!-- Local onde o JavaScript adicionará os países -->
-    <div id="listaPaises"></div>
+        <h2>🌎 Seleções</h2>
 
-  </aside>
+        <!-- Campo de pesquisa -->
+        <div class="campo-pesquisa">
 
-  <!-- Conteúdo principal da página -->
-  <main class="container">
+            <span>🔍</span>
 
-    <!-- Título principal -->
-    <h1>Copa do Mundo 2026</h1>
+            <input
+                type="text"
+                id="campoPesquisa"
+                placeholder="Pesquisar seleção..."
+            >
 
-    <!-- Texto de instrução para o usuário -->
-    <p>Escolha uma seleção para ver os detalhes.</p>
+        </div>
 
-    <!-- Área onde o JavaScript mostrará as informações -->
-    <div id="app"></div>
+        <!-- Filtro por continente -->
+        <select id="filtroContinente">
 
-  </main>
+            <option value="todos">Todos os continentes</option>
+            <option value="América do Sul">América do Sul</option>
+            <option value="América do Norte/Central">América do Norte/Central</option>
+            <option value="Europa">Europa</option>
+            <option value="África">África</option>
+            <option value="Ásia">Ásia</option>
+            <option value="Oceania">Oceania</option>
 
-  <!-- Importa o JavaScript para adicionar funções ao site -->
-  <script src="script.js"></script>
+        </select>
+
+        <!-- Botão para alternar tema claro/escuro -->
+        <button id="botaoTema" onclick="alternarTema()">
+            Alternar tema
+        </button>
+
+        <!--
+        Aqui o JavaScript vai criar os botões:
+
+        Brasil
+        Argentina
+        França
+        etc.
+        -->
+        <div id="listaPaises"></div>
+
+    </aside>
+
+    <!--
+    CONTEÚDO PRINCIPAL
+
+    Aqui aparecem:
+    - tela inicial
+    - card da seleção
+    - tabela de grupos
+    -->
+    <main class="container">
+
+        <!-- Tela inicial -->
+        <section id="telaInicial" class="tela-inicial">
+
+            <h1>Copa do Mundo 2026</h1>
+
+            <p>
+                Explore seleções, jogadores, bandeiras, favoritos e grupos.
+            </p>
+
+            <button onclick="rolarParaConteudo()" class="botao-principal">
+                Explorar seleções
+            </button>
+
+        </section>
+
+        <!-- Área onde aparece a seleção clicada -->
+        <section id="detalhes" class="painel">
+
+            <h2>Selecione uma equipe na lateral esquerda</h2>
+
+            <p>
+                Clique em uma seleção para visualizar bandeira, técnico e jogadores.
+            </p>
+
+        </section>
+
+        <!-- Botão para abrir e fechar grupos -->
+        <button id="botaoGrupos" onclick="alternarTabelaGrupos()">
+            Ver tabela de grupos
+        </button>
+
+        <!-- Tabela de grupos começa escondida -->
+        <section id="tabelaGrupos" class="painel tabela-escondida"></section>
+
+    </main>
+
+    <!-- Liga o JavaScript ao HTML -->
+    <script src="script.js"></script>
 
 </body>
+
 </html>
