@@ -667,3 +667,63 @@ Ajusta o site no celular.
     }
 
 }
+/*
+==================================
+CRÉDITOS
+
+Área do rodapé
+com informações do autor
+==================================
+*/
+
+.creditos{
+
+    margin-top:50px;
+
+    padding:25px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    background:
+
+    rgba(255,255,255,0.08);
+
+    border:
+
+    1px solid rgba(255,255,255,0.15);
+
+}
+
+
+
+.creditos h3{
+
+    margin-bottom:15px;
+
+    color:#90e0ef;
+
+}
+
+
+
+.creditos p{
+
+    margin:8px 0;
+
+}
+
+
+
+/*
+Tema claro
+*/
+
+body.tema-claro .creditos{
+
+    background:
+
+    rgba(255,255,255,0.75);
+
+}
