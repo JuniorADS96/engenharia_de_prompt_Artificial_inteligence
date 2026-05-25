@@ -727,3 +727,351 @@ body.tema-claro .creditos{
     rgba(255,255,255,0.75);
 
 }
+.jogadores-grid{
+
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:20px;
+
+}
+
+.card-jogador{
+
+background:white;
+padding:15px;
+border-radius:15px;
+color:black;
+box-shadow:0 0 10px rgba(0,0,0,0.3);
+
+}
+.foto-jogador {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 12px auto;
+  background-color: #f1f1f1;
+}
+
+.card-jogador {
+  text-align: center;
+}
+/* CARD DO JOGADOR */
+
+.card-jogador{
+    background: linear-gradient(
+        145deg,
+        #0b1630,
+        #111827
+    );
+
+    border: 1px solid rgba(255,255,255,0.08);
+
+    border-radius:16px;
+
+    padding:18px;
+
+    text-align:center;
+
+    transition:0.3s;
+
+    box-shadow:
+    0 8px 20px rgba(0,0,0,0.35);
+
+    overflow:hidden;
+}
+
+
+/* Efeito ao passar mouse */
+
+.card-jogador:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:
+    0 15px 30px rgba(0,191,255,0.35);
+
+}
+
+
+/* FOTO DO JOGADOR */
+
+.foto-jogador{
+
+    width:120px;
+    height:120px;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    display:block;
+
+    margin:0 auto 15px;
+
+    padding:6px;
+
+    background:
+    radial-gradient(
+        circle,
+        #16385f,
+        #0a0f1d
+    );
+
+    border:3px solid rgba(255,255,255,0.15);
+
+    box-shadow:
+    0 0 15px rgba(0,191,255,0.35);
+
+}
+
+
+/* NOME */
+
+.card-jogador h3{
+
+    color:#67d4ff;
+
+    font-size:1.1rem;
+
+    margin-bottom:10px;
+
+}
+
+
+/* DADOS */
+
+.card-jogador p{
+
+    color:#f5f5f5;
+
+    font-size:0.95rem;
+
+    margin:4px;
+}
+
+
+/* Destaque no texto forte */
+
+.card-jogador strong{
+
+    color:#00d4ff;
+}
+.topo-card-jogador{
+display:flex;
+justify-content:flex-end;
+margin-bottom:8px;
+}
+
+.badge-posicao{
+
+background:rgba(0,212,255,.15);
+
+color:#00d4ff;
+
+padding:6px 10px;
+
+border-radius:20px;
+
+font-size:12px;
+
+font-weight:bold;
+
+border:1px solid rgba(0,212,255,.3);
+
+backdrop-filter:blur(5px);
+
+}
+.estatisticas-jogador{
+display:flex;
+justify-content:space-between;
+margin-top:12px;
+gap:8px;
+}
+
+.stat-item{
+flex:1;
+background:rgba(255,255,255,0.08);
+padding:8px;
+border-radius:12px;
+text-align:center;
+border:1px solid rgba(255,255,255,0.08);
+
+backdrop-filter:blur(5px);
+
+font-size:14px;
+font-weight:bold;
+
+color:#ffffff;
+}
+
+.stat-item small{
+display:block;
+
+margin-top:4px;
+
+font-size:11px;
+
+color:#8fd3ff;
+}
+.modal-jogador {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.75);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.modal-jogador.modal-visivel {
+  display: flex;
+}
+
+.modal-conteudo-jogador {
+  background: linear-gradient(145deg, #0b1630, #111827);
+  border: 1px solid rgba(0,212,255,0.3);
+  border-radius: 20px;
+  padding: 30px;
+  width: 90%;
+  max-width: 420px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0 0 35px rgba(0,212,255,0.35);
+  position: relative;
+}
+
+.fechar-modal {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: #ff3b3b;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.foto-perfil-jogador {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  background: white;
+  padding: 6px;
+  box-shadow: 0 0 25px rgba(0,212,255,0.45);
+  margin-bottom: 15px;
+}
+
+.modal-conteudo-jogador h2 {
+  color: #67d4ff;
+  margin-bottom: 15px;
+}
+
+.modal-conteudo-jogador p {
+  margin: 8px 0;
+}
+
+.aviso-dados {
+  margin-top: 20px;
+  font-size: 0.85rem;
+  color: #9ddfff;
+}
+.modal-glass {
+  background: linear-gradient(
+    145deg,
+    rgba(8, 18, 42, 0.96),
+    rgba(3, 10, 26, 0.96)
+  );
+
+  border: 1px solid rgba(0, 212, 255, 0.35);
+
+  backdrop-filter: blur(14px);
+
+  box-shadow:
+    0 0 35px rgba(0, 212, 255, 0.35),
+    inset 0 0 25px rgba(255, 255, 255, 0.03);
+}
+
+.modal-topo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  margin-bottom: 15px;
+}
+
+.modal-bandeira {
+  width: 42px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.25);
+}
+
+.modal-selecao {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.modal-badge-posicao {
+  display: inline-block;
+  margin: 8px 0 18px;
+
+  background: rgba(0, 212, 255, 0.14);
+  color: #67d4ff;
+
+  border: 1px solid rgba(0, 212, 255, 0.35);
+
+  padding: 7px 16px;
+
+  border-radius: 20px;
+
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.modal-info-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+
+  margin-top: 10px;
+}
+
+.modal-info-card {
+  background: rgba(255,255,255,0.08);
+
+  border: 1px solid rgba(255,255,255,0.08);
+
+  border-radius: 14px;
+
+  padding: 12px 8px;
+
+  text-align: center;
+}
+
+.modal-info-card strong {
+  display: block;
+
+  color: #ffffff;
+
+  font-size: 1rem;
+
+  margin-bottom: 4px;
+}
+
+.modal-info-card span {
+  color: #8fd3ff;
+
+  font-size: 0.78rem;
+}
